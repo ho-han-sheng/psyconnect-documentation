@@ -4,7 +4,7 @@ linktitle: Setting Up GitHub
 type: book
 date: '2023-01-07T00:00:00+08:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 10
 ---
 
 You may find the following video useful:

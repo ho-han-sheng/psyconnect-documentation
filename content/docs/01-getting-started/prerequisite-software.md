@@ -4,7 +4,7 @@ linktitle: Installing Prerequisite Software
 type: book
 date: '2023-01-07T00:00:00+08:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 20
 ---
 
 You do not need to install both [Scoop](#scoop-for-windows) and [Homebrew](#homebrew-for-macos). Choose the relevant package manager for the operating system you are working on (Windows or MacOS).
