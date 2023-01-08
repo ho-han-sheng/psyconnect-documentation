@@ -27,7 +27,7 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 3. You may receive a prompt alerting you to the change in execution policy, answer yes to this with Y:
 
-![Screenshot of execution policy change](/assets/media/execution-policy-change.png)
+![Screenshot of execution policy change](/static/uploads/execution-policy-change.png)
 
 1. Copy and paste the following code into the command-line:
 
@@ -37,11 +37,11 @@ irm get.scoop.sh | iex
 
 5. Wait for scoop to install
 
-![Screenshot of scoop installation](/assets/media/scoop-install-success.png)
+![Screenshot of scoop installation](/static/uploads/scoop-install-success.png)
 
 For the following software, you may use [scoop's search function](https://scoop.sh/) to search for the relevant installation commands (in the event that commands listed here are outdated).
 
-![Screenshot of scoop search](/assets/media/scoop-go-search.png)
+![Screenshot of scoop search](/static/uploads/scoop-go-search.png)
 
 ### Homebrew for MacOS
 
@@ -49,7 +49,7 @@ You may refer to the [Homebrew documentation](https://brew.sh/).
 
 For the following software, you may use [homebrew's package browser](https://formulae.brew.sh/) to search for the relevant installation commands (in the event that commands listed here are outdated).
 
-![Screenshot of homebrew search](/assets/media/homebrew-search-go.png)
+![Screenshot of homebrew search](/static/uploads/homebrew-search-go.png)
 
 ### Git
 
@@ -111,7 +111,7 @@ hugo version
 
 Ensure that your version of hugo includes `+extended` after its hash:
 
-![Screenshot of hugo-extended hash](/assets/media/hugo-extended-example.png)
+![Screenshot of hugo-extended hash](/static/uploads/hugo-extended-example.png)
 
 ### Nodejs
 
