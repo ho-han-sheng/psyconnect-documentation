@@ -1,11 +1,11 @@
 ---
 # Title, summary, and page position.
-linktitle: Wowchemy Folder Organisation
+linktitle: Folder Organisation
 summary: Layout of our repository
 weight: 20
 
 # Page metadata.
-title: Wowchemy Folder Organisation
+title: Folder Organisation
 date: '2023-01-07T00:00:00+08:00'
 type: book # Do not modify.
 ---
