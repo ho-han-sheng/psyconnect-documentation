@@ -3,12 +3,34 @@
 &lt;h3 id="assetsmediaalbums">&lt;code>assets/media/albums&lt;/code>&lt;/h3>
 &lt;p>A work-in-progress folder to hold entire albums related to a single event. The aim is to discover how we could implement a gallery widget within the post page.&lt;/p>
 &lt;h3 id="assetsmediaicons">&lt;code>assets/media/icons&lt;/code>&lt;/h3>
-&lt;p>This folder contains all of the icons we use on the website.&lt;/p></description></item><item><title>config</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/config/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/config/</guid><description>&lt;h3 id="configconfigyaml">&lt;code>config/config.yaml&lt;/code>&lt;/h3>
+&lt;p>This folder contains all of the icons we use on the website.&lt;/p></description></item><item><title>config</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/config/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/config/</guid><description>&lt;h2 id="configconfigyaml">&lt;code>config/config.yaml&lt;/code>&lt;/h2>
 &lt;p>Hugo configuration settings for the website.&lt;/p>
 &lt;p>Refer to the relevant documentation &lt;a href="https://gohugo.io/getting-started/configuration/#all-configuration-settings" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
-&lt;h3 id="configlanguagesyaml">&lt;code>config/languages.yaml&lt;/code>&lt;/h3>
+&lt;h2 id="configlanguagesyaml">&lt;code>config/languages.yaml&lt;/code>&lt;/h2>
 &lt;p>File containing the supported languages on our website.&lt;/p>
-&lt;h3 id="configmenusyaml">&lt;code>config/menus.yaml&lt;/code>&lt;/h3>
+&lt;h2 id="configmenusyaml">&lt;code>config/menus.yaml&lt;/code>&lt;/h2>
 &lt;p>File determining the menu tabs on the top right.&lt;/p>
-&lt;h3 id="configparamsyaml">&lt;code>config/params.yaml&lt;/code>&lt;/h3>
-&lt;p>File determining website functionalities.&lt;/p></description></item></channel></rss>
+&lt;h2 id="configparamsyaml">&lt;code>config/params.yaml&lt;/code>&lt;/h2>
+&lt;p>File determining website functionalities.&lt;/p></description></item><item><title>content</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/content/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/content/</guid><description>&lt;h2 id="contentabout">&lt;code>content/about&lt;/code>&lt;/h2>
+&lt;p>Content for the &amp;ldquo;About Us&amp;rdquo; page.&lt;/p>
+&lt;h2 id="contentadmin">&lt;code>content/admin&lt;/code>&lt;/h2>
+&lt;p>Configuration files for the unused internal content management system (CMS)&lt;/p>
+&lt;h2 id="contentauthors">&lt;code>content/authors&lt;/code>&lt;/h2>
+&lt;p>Database of authors for tagging to resources and display on &amp;ldquo;People&amp;rdquo; page.&lt;/p>
+&lt;h2 id="contentcontact">&lt;code>content/contact&lt;/code>&lt;/h2>
+&lt;p>Content for the &amp;ldquo;Contact Us&amp;rdquo; page.&lt;/p>
+&lt;h2 id="contentevent">&lt;code>content/event&lt;/code>&lt;/h2>
+&lt;p>Content for the &amp;ldquo;Events&amp;rdquo; page.&lt;/p>
+&lt;h2 id="contenthome">&lt;code>content/home&lt;/code>&lt;/h2>
+&lt;p>Content for the &amp;ldquo;Home&amp;rdquo; page.&lt;/p>
+&lt;h2 id="contentpeople">&lt;code>content/people&lt;/code>&lt;/h2>
+&lt;p>Content for the &amp;ldquo;People&amp;rdquo; page&lt;/p>
+&lt;h2 id="contentpost">&lt;code>content/post&lt;/code>&lt;/h2>
+&lt;p>Content for an unused page.&lt;/p>
+&lt;h2 id="contentresources">&lt;code>content/resources&lt;/code>&lt;/h2>
+&lt;p>Content for the &amp;ldquo;resources&amp;rdquo; page.&lt;/p>
+&lt;h2 id="content_indexmd">&lt;code>content/_index.md&lt;/code>&lt;/h2>
+&lt;p>File that determines our &amp;ldquo;Hero&amp;rdquo; page. i.e., the first page everyone lands on.&lt;/p></description></item><item><title>data</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/data/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/data/</guid><description>&lt;h2 id="datafonts">&lt;code>data/fonts&lt;/code>&lt;/h2>
+&lt;p>Folder for containing custom fonts (if any).&lt;/p>
+&lt;h2 id="datathemes">&lt;code>data/themes&lt;/code>&lt;/h2>
+&lt;p>Folder for dark / light themes used.&lt;/p></description></item></channel></rss>

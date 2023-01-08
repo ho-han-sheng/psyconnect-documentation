@@ -37,7 +37,7 @@ height="188"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="2">
 &lt;li>Copy and paste the following code into the command-line (this is optional if you are not running a remote script for the first time):&lt;/li>
 &lt;/ol>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">Set-ExecutionPolicy&lt;/span> &lt;span class="n">RemoteSigned&lt;/span> &lt;span class="n">-Scope&lt;/span> &lt;span class="n">CurrentUser&lt;/span>
@@ -57,7 +57,7 @@ height="108"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="4">
 &lt;li>Copy and paste the following code into the command-line:&lt;/li>
 &lt;/ol>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">irm &lt;/span>&lt;span class="n">get&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">scoop&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">sh&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nb">iex
@@ -207,7 +207,7 @@ height="370"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="2">
 &lt;li>Click on the green &lt;code>Create fork&lt;/code> button on this window.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -223,7 +223,7 @@ height="536"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="3">
 &lt;li>You should now see your forked copy of the repository at &lt;code>your-username/PsyConnect.github.io&lt;/code> forked from &lt;code>PsyConnect/PsyConnect.github.io&lt;/code>.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -245,8 +245,12 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>Feel free to refer to the &lt;a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository" target="_blank" rel="noopener">GitHub Docs&lt;/a> for more information on cloning.&lt;/p>
 &lt;h2 id="steps-to-clone-the-fork">Steps to Clone the Fork&lt;/h2>
 &lt;ol>
-&lt;li>Open up GitHub Desktop and log in to your account. You may wish to refer to &lt;code>2:48&lt;/code> in the &lt;a href="https://youtu.be/8Dd7KRpKeaE?t=168" target="_blank" rel="noopener">first video we mentioned&lt;/a> to guide you through set up.&lt;/li>
-&lt;li>Go to &lt;code>File&lt;/code> and click &lt;code>Clone repository&lt;/code>.&lt;/li>
+&lt;li>
+&lt;p>Open up GitHub Desktop and log in to your account. You may wish to refer to &lt;code>2:48&lt;/code> in the &lt;a href="https://youtu.be/8Dd7KRpKeaE?t=168" target="_blank" rel="noopener">first video we mentioned&lt;/a> to guide you through set up.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Go to &lt;code>File&lt;/code> and click &lt;code>Clone repository&lt;/code>.&lt;/p>
+&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
@@ -261,7 +265,7 @@ height="238"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="3">
 &lt;li>Choose the forked repository &lt;code>your-username/PsyConnect.github.io&lt;/code> and choose where you wish to save it in your computer under &lt;code>Local path&lt;/code>.&lt;/li>
 &lt;/ol>
 &lt;p>

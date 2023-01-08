@@ -24,7 +24,7 @@ height="473"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="2">
 &lt;li>Create a name for your new branch. Try to keep them descriptive and relevant to the edits you would be making.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -40,7 +40,7 @@ height="257"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="3">
 &lt;li>Your current branch should now reflect your chosen name for the new branch.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -72,14 +72,14 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>Essentially, Git is a version control software (VCS) and GitHub is a website that allows us to host our code online.&lt;/p>
 &lt;h2 id="github-account">Github Account&lt;/h2>
 &lt;p>This account is required for you to collaborate and interact with our codebase. As all profiles and commits are &lt;strong>public&lt;/strong>, we highly suggest choosing a professional handle and one that allows reviewers to clearly identify you.&lt;/p>
-&lt;p>You may also refer to &lt;a href="https://docs.github.com/en" target="_blank" rel="noopener">GitHub&amp;rsquo;s exisiting guides and documentation&lt;/a>.&lt;/p></description></item><item><title>config</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/config/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/config/</guid><description>&lt;h3 id="configconfigyaml">&lt;code>config/config.yaml&lt;/code>&lt;/h3>
+&lt;p>You may also refer to &lt;a href="https://docs.github.com/en" target="_blank" rel="noopener">GitHub&amp;rsquo;s exisiting guides and documentation&lt;/a>.&lt;/p></description></item><item><title>config</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/config/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/config/</guid><description>&lt;h2 id="configconfigyaml">&lt;code>config/config.yaml&lt;/code>&lt;/h2>
 &lt;p>Hugo configuration settings for the website.&lt;/p>
 &lt;p>Refer to the relevant documentation &lt;a href="https://gohugo.io/getting-started/configuration/#all-configuration-settings" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
-&lt;h3 id="configlanguagesyaml">&lt;code>config/languages.yaml&lt;/code>&lt;/h3>
+&lt;h2 id="configlanguagesyaml">&lt;code>config/languages.yaml&lt;/code>&lt;/h2>
 &lt;p>File containing the supported languages on our website.&lt;/p>
-&lt;h3 id="configmenusyaml">&lt;code>config/menus.yaml&lt;/code>&lt;/h3>
+&lt;h2 id="configmenusyaml">&lt;code>config/menus.yaml&lt;/code>&lt;/h2>
 &lt;p>File determining the menu tabs on the top right.&lt;/p>
-&lt;h3 id="configparamsyaml">&lt;code>config/params.yaml&lt;/code>&lt;/h3>
+&lt;h2 id="configparamsyaml">&lt;code>config/params.yaml&lt;/code>&lt;/h2>
 &lt;p>File determining website functionalities.&lt;/p></description></item><item><title>Installing Prerequisite Software</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/prerequisite-software/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/prerequisite-software/</guid><description>&lt;p>You do not need to install both &lt;a href="#scoop-for-windows">Scoop&lt;/a> and &lt;a href="#homebrew-for-macos">Homebrew&lt;/a>. Choose the relevant package manager for the operating system you are working on (Windows or MacOS).&lt;/p>
 &lt;blockquote>
 &lt;p>❗ Make sure you install a package manager before the rest of the software to prevent unnecessary headaches.&lt;/p>
@@ -102,7 +102,7 @@ height="188"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="2">
 &lt;li>Copy and paste the following code into the command-line (this is optional if you are not running a remote script for the first time):&lt;/li>
 &lt;/ol>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">Set-ExecutionPolicy&lt;/span> &lt;span class="n">RemoteSigned&lt;/span> &lt;span class="n">-Scope&lt;/span> &lt;span class="n">CurrentUser&lt;/span>
@@ -122,7 +122,7 @@ height="108"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="4">
 &lt;li>Copy and paste the following code into the command-line:&lt;/li>
 &lt;/ol>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">irm &lt;/span>&lt;span class="n">get&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">scoop&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">sh&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nb">iex
@@ -261,7 +261,7 @@ height="552"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="2">
 &lt;li>
 &lt;p>This opens the native Windows Explorer. Navigate to the location you saved your local, cloned repository to as specified in &lt;a href="Getting-Started.md#cloning-the-fork-to-local-computer">Cloning-the-fork-to-local-computer&lt;/a>. Ensure that the folder selected is correct, i.e., &lt;code>PsyConnect.github.io&lt;/code>.&lt;/p>
 &lt;p>(A) This can be achieved by single-clicking the corresponding folder.&lt;/p>
@@ -368,7 +368,7 @@ height="320"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="2">
 &lt;li>Input the extension ID of the aforementioned extensions. e.g., &lt;code>DavidAnson.vscode-markdownlint&lt;/code>&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -384,7 +384,7 @@ height="412"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="3">
 &lt;li>Click on the install button.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -400,7 +400,7 @@ height="340"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="4">
 &lt;li>Your &lt;code>install&lt;/code> button should now be replaced with a &lt;code>disable&lt;/code> and &lt;code>uninstall&lt;/code> button.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -416,7 +416,7 @@ height="244"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="5">
 &lt;li>
 &lt;p>Repeat this process for the remaining extensions&lt;/p>
 &lt;/li>
@@ -436,7 +436,26 @@ width="191"
 height="52"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>Content Specific Edits</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/content-specific-edits/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/content-specific-edits/</guid><description>&lt;h2 id="creating-an-event-post">Creating an event post&lt;/h2>
+&lt;/p></description></item><item><title>content</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/content/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/content/</guid><description>&lt;h2 id="contentabout">&lt;code>content/about&lt;/code>&lt;/h2>
+&lt;p>Content for the &amp;ldquo;About Us&amp;rdquo; page.&lt;/p>
+&lt;h2 id="contentadmin">&lt;code>content/admin&lt;/code>&lt;/h2>
+&lt;p>Configuration files for the unused internal content management system (CMS)&lt;/p>
+&lt;h2 id="contentauthors">&lt;code>content/authors&lt;/code>&lt;/h2>
+&lt;p>Database of authors for tagging to resources and display on &amp;ldquo;People&amp;rdquo; page.&lt;/p>
+&lt;h2 id="contentcontact">&lt;code>content/contact&lt;/code>&lt;/h2>
+&lt;p>Content for the &amp;ldquo;Contact Us&amp;rdquo; page.&lt;/p>
+&lt;h2 id="contentevent">&lt;code>content/event&lt;/code>&lt;/h2>
+&lt;p>Content for the &amp;ldquo;Events&amp;rdquo; page.&lt;/p>
+&lt;h2 id="contenthome">&lt;code>content/home&lt;/code>&lt;/h2>
+&lt;p>Content for the &amp;ldquo;Home&amp;rdquo; page.&lt;/p>
+&lt;h2 id="contentpeople">&lt;code>content/people&lt;/code>&lt;/h2>
+&lt;p>Content for the &amp;ldquo;People&amp;rdquo; page&lt;/p>
+&lt;h2 id="contentpost">&lt;code>content/post&lt;/code>&lt;/h2>
+&lt;p>Content for an unused page.&lt;/p>
+&lt;h2 id="contentresources">&lt;code>content/resources&lt;/code>&lt;/h2>
+&lt;p>Content for the &amp;ldquo;resources&amp;rdquo; page.&lt;/p>
+&lt;h2 id="content_indexmd">&lt;code>content/_index.md&lt;/code>&lt;/h2>
+&lt;p>File that determines our &amp;ldquo;Hero&amp;rdquo; page. i.e., the first page everyone lands on.&lt;/p></description></item><item><title>Content Specific Edits</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/content-specific-edits/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/content-specific-edits/</guid><description>&lt;h2 id="creating-an-event-post">Creating an event post&lt;/h2>
 &lt;ol>
 &lt;li>Navigate to &lt;code>content/event&lt;/code>.&lt;/li>
 &lt;/ol>
@@ -453,7 +472,7 @@ height="588"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="2">
 &lt;li>You will notice that each individual event has their own folder. Right click any existing event folder (e.g., starred-up-psyconnect-movie) and copy them.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -469,7 +488,7 @@ height="495"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="3">
 &lt;li>Right click the parent &lt;code>event&lt;/code> folder and paste a copy of the existing event folder.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -485,7 +504,7 @@ height="164"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="4">
 &lt;li>Rename the folder to reflect your event (e.g., november-board-games).&lt;/li>
 &lt;/ol>
 &lt;blockquote>
@@ -505,7 +524,7 @@ height="39"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="5">
 &lt;li>
 &lt;p>Open up the &lt;code>index.md&lt;/code> file.&lt;/p>
 &lt;/li>
@@ -526,7 +545,7 @@ height="697"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="7">
 &lt;li>For the write-up of the event, place them under the second &lt;code>---&lt;/code>.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -542,7 +561,7 @@ height="289"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="8">
 &lt;li>For the accompanying picture, replace &lt;code>featured.jpg&lt;/code> with the image you wish to use. You can replace it with either VSCode&amp;rsquo;s built-in file explorer OR your operating system&amp;rsquo;s file explorer.&lt;/li>
 &lt;/ol>
 &lt;blockquote>
@@ -578,7 +597,7 @@ height="94"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="2">
 &lt;li>Repeat steps 2 to 7 with any existing resource folder and its &lt;code>index.md&lt;/code>.&lt;/li>
 &lt;/ol>
 &lt;blockquote>
@@ -597,7 +616,7 @@ height="760"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="3">
 &lt;li>For the resource itself (e.g., the PDF file), upload it to the same folder &lt;strong>with the same name as its folder&lt;/strong> (e.g., &lt;code>resources/MTH220-summary-sheet&lt;/code> contains &lt;code>MTH220-summary-sheet.pdf&lt;/code>). This allows hugo to automatically link the pdf or other files to the current resource post.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -639,7 +658,7 @@ height="370"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="2">
 &lt;li>Click on the green &lt;code>Create fork&lt;/code> button on this window.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -655,7 +674,7 @@ height="536"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="3">
 &lt;li>You should now see your forked copy of the repository at &lt;code>your-username/PsyConnect.github.io&lt;/code> forked from &lt;code>PsyConnect/PsyConnect.github.io&lt;/code>.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -677,8 +696,12 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;p>Feel free to refer to the &lt;a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository" target="_blank" rel="noopener">GitHub Docs&lt;/a> for more information on cloning.&lt;/p>
 &lt;h2 id="steps-to-clone-the-fork">Steps to Clone the Fork&lt;/h2>
 &lt;ol>
-&lt;li>Open up GitHub Desktop and log in to your account. You may wish to refer to &lt;code>2:48&lt;/code> in the &lt;a href="https://youtu.be/8Dd7KRpKeaE?t=168" target="_blank" rel="noopener">first video we mentioned&lt;/a> to guide you through set up.&lt;/li>
-&lt;li>Go to &lt;code>File&lt;/code> and click &lt;code>Clone repository&lt;/code>.&lt;/li>
+&lt;li>
+&lt;p>Open up GitHub Desktop and log in to your account. You may wish to refer to &lt;code>2:48&lt;/code> in the &lt;a href="https://youtu.be/8Dd7KRpKeaE?t=168" target="_blank" rel="noopener">first video we mentioned&lt;/a> to guide you through set up.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Go to &lt;code>File&lt;/code> and click &lt;code>Clone repository&lt;/code>.&lt;/p>
+&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
@@ -693,7 +716,7 @@ height="238"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol>
+&lt;ol start="3">
 &lt;li>Choose the forked repository &lt;code>your-username/PsyConnect.github.io&lt;/code> and choose where you wish to save it in your computer under &lt;code>Local path&lt;/code>.&lt;/li>
 &lt;/ol>
 &lt;p>
@@ -708,7 +731,10 @@ width="495"
 height="491"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>Hosting Local Web Server</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/hosting-local-hugo-server/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/hosting-local-hugo-server/</guid><description>&lt;p>Congratulations! You&amp;rsquo;ve finished editing and can now view the fruits of your labour. In order to check if your code is workable and the possible visual changes on the website, you need to deploy a local webserver hosting your offline copy of our website.&lt;/p>
+&lt;/p></description></item><item><title>data</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/data/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/02-folder-organisation/data/</guid><description>&lt;h2 id="datafonts">&lt;code>data/fonts&lt;/code>&lt;/h2>
+&lt;p>Folder for containing custom fonts (if any).&lt;/p>
+&lt;h2 id="datathemes">&lt;code>data/themes&lt;/code>&lt;/h2>
+&lt;p>Folder for dark / light themes used.&lt;/p></description></item><item><title>Hosting Local Web Server</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/hosting-local-hugo-server/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/hosting-local-hugo-server/</guid><description>&lt;p>Congratulations! You&amp;rsquo;ve finished editing and can now view the fruits of your labour. In order to check if your code is workable and the possible visual changes on the website, you need to deploy a local webserver hosting your offline copy of our website.&lt;/p>
 &lt;p>To do this on VSCode:&lt;/p>
 &lt;ol>
 &lt;li>Ensure all your changes in open editors are saved using the &lt;code>File/Save&lt;/code> button on the top left or the &lt;code>Ctrl+S&lt;/code> keyboard shortcut. You should see your edited file highlighted with either an &lt;code>M&lt;/code> or a &lt;code>U&lt;/code> for modified and uploaded respectively.&lt;/li>
