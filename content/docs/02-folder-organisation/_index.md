@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Wowchemy Folder Organisation
-summary: 
+summary: Layout of our repository
 weight: 20
 
 # Page metadata.

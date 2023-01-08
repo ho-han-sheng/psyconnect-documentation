@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Getting Started
-summary: 
+summary: Setting up GitHub, installing prerequisite software and forking.
 weight: 10
 
 # Page metadata.

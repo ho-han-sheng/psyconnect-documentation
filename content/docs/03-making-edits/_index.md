@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Making Edits
-summary: 
+summary: Branching, setting up visual studio code, making content-specific edits and hosting a local hugo server.
 weight: 30
 
 # Page metadata.
