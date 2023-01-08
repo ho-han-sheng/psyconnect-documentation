@@ -17,7 +17,7 @@ You may refer to [Scoop documentation](https://scoop.sh/).
 
 1. Open Windows Powershell by typing in the search bar:
 
-![Screenshot of search bar](scoop-list.png)
+![Screenshot of search bar](powershell-screenshot.png)
 
 2. Copy and paste the following code into the command-line (this is optional if you are not running a remote script for the first time):
 
