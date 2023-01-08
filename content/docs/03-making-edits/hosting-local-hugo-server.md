@@ -5,6 +5,7 @@ type: book
 date: '2023-01-07T00:00:00+08:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 40
+toc: false
 ---
 
 Congratulations! You've finished editing and can now view the fruits of your labour. In order to check if your code is workable and the possible visual changes on the website, you need to deploy a local webserver hosting your offline copy of our website.

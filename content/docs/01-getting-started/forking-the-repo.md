@@ -25,11 +25,11 @@ The belowmentioned steps will guide you in forking our website's repository to y
 
 ![Highlighted fork button](fork-1.png)
 
-1. Click on the green `Create fork` button on this window.
+2. Click on the green `Create fork` button on this window.
 
 ![Creating a fork](fork-2.png)
 
-1. You should now see your forked copy of the repository at `your-username/PsyConnect.github.io` forked from `PsyConnect/PsyConnect.github.io`.
+3. You should now see your forked copy of the repository at `your-username/PsyConnect.github.io` forked from `PsyConnect/PsyConnect.github.io`.
 
 ![Forked repository](fork-3.png)
 
@@ -44,10 +44,11 @@ Feel free to refer to the [GitHub Docs](https://docs.github.com/en/get-started/q
 ## Steps to Clone the Fork
 
 1. Open up GitHub Desktop and log in to your account. You may wish to refer to `2:48` in the [first video we mentioned](https://youtu.be/8Dd7KRpKeaE?t=168) to guide you through set up.
+   
 2. Go to `File` and click `Clone repository`.
 
 ![Screenshot of clone repository](cloning-1.png)
 
-1. Choose the forked repository `your-username/PsyConnect.github.io` and choose where you wish to save it in your computer under `Local path`.
+3. Choose the forked repository `your-username/PsyConnect.github.io` and choose where you wish to save it in your computer under `Local path`.
 
 ![Screenshot of choosing repository to clone](cloning-2.png)

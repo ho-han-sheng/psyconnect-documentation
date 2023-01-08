@@ -19,7 +19,7 @@ You may refer to [Scoop documentation](https://scoop.sh/).
 
 ![Screenshot of search bar](scoop-list.png)
 
-1. Copy and paste the following code into the command-line (this is optional if you are not running a remote script for the first time):
+2. Copy and paste the following code into the command-line (this is optional if you are not running a remote script for the first time):
 
 ```powershell
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -29,7 +29,7 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ![Screenshot of execution policy change](execution-policy-change.png)
 
-1. Copy and paste the following code into the command-line:
+4. Copy and paste the following code into the command-line:
 
 ```powershell
 irm get.scoop.sh | iex

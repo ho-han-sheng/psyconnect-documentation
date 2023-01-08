@@ -7,20 +7,20 @@ date: '2023-01-07T00:00:00+08:00'
 weight: 20
 ---
 
-### `config/config.yaml`
+## `config/config.yaml`
 
 Hugo configuration settings for the website.
 
 Refer to the relevant documentation [here](https://gohugo.io/getting-started/configuration/#all-configuration-settings).
 
-### `config/languages.yaml`
+## `config/languages.yaml`
 
 File containing the supported languages on our website.
 
-### `config/menus.yaml`
+## `config/menus.yaml`
 
 File determining the menu tabs on the top right.
 
-### `config/params.yaml`
+## `config/params.yaml`
 
 File determining website functionalities.

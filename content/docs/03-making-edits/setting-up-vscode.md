@@ -5,13 +5,14 @@ type: book
 date: '2023-01-07T00:00:00+08:00'
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 20
+toc: false
 ---
 
 1. On startup, you will be greeted with the `Get Started` page. A few options are available, you would want to use `Open Folder`.
 
 ![Screenshot of VSCode Welcome Page](vscode-welcome.png)
 
-1. This opens the native Windows Explorer. Navigate to the location you saved your local, cloned repository to as specified in [Cloning-the-fork-to-local-computer](Getting-Started.md#cloning-the-fork-to-local-computer). Ensure that the folder selected is correct, i.e., `PsyConnect.github.io`.
+2. This opens the native Windows Explorer. Navigate to the location you saved your local, cloned repository to as specified in [Cloning-the-fork-to-local-computer](Getting-Started.md#cloning-the-fork-to-local-computer). Ensure that the folder selected is correct, i.e., `PsyConnect.github.io`.
    
     (A) This can be achieved by single-clicking the corresponding folder.
 
@@ -21,7 +22,7 @@ weight: 20
 
     ![Screenshot of Windows Explorer](folder-selection-2.png)
 
-2. Click on `Select Folder`. You should now see the repository's folder structure.
+3. Click on `Select Folder`. You should now see the repository's folder structure.
 
 ![Screenshot of VSCode](folder-selection-3.png)
 
@@ -53,20 +54,20 @@ Here are the steps for installing an extension in VSCode:
 
 ![Screenshot of vscode extensions](vscode-ext-1.png)
 
-1. Input the extension ID of the aforementioned extensions. e.g., `DavidAnson.vscode-markdownlint`
+2. Input the extension ID of the aforementioned extensions. e.g., `DavidAnson.vscode-markdownlint`
 
 ![Screenshot of vscode extensions search bar](vscode-ext-2.png)
 
-1. Click on the install button.
+3. Click on the install button.
 
 ![Screenshot of homepage of vscode extension](vscode-ext-3.png)
 
-1. Your `install` button should now be replaced with a `disable` and `uninstall` button.
+4. Your `install` button should now be replaced with a `disable` and `uninstall` button.
 
 ![Screenshot of installed vscode extension](vscode-ext-4.png)
 
-1. Repeat this process for the remaining extensions
+5. Repeat this process for the remaining extensions
 
-2. Reload VSCode to ensure changes take effect. If you have installed `natqe.reload`, there will be a reload button on the bottom right.
+6. Reload VSCode to ensure changes take effect. If you have installed `natqe.reload`, there will be a reload button on the bottom right.
 
 ![Screenshot of reload button](vscode-ext-5.png)
