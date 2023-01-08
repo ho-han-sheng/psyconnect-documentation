@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Getting Started | PsyConnect Documentation</title><link>https://example.com/docs/01-getting-started/</link><atom:link href="https://example.com/docs/01-getting-started/index.xml" rel="self" type="application/rss+xml"/><description>Getting Started</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0800</lastBuildDate><image><url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Getting Started</title><link>https://example.com/docs/01-getting-started/</link></image><item><title>Setting Up GitHub</title><link>https://example.com/docs/01-getting-started/setting-up-github/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://example.com/docs/01-getting-started/setting-up-github/</guid><description>&lt;p>You may find the following video useful:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Getting Started | PsyConnect Documentation</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/</link><atom:link href="https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/index.xml" rel="self" type="application/rss+xml"/><description>Getting Started</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0800</lastBuildDate><image><url>https://ho-han-sheng.github.io/psyconnect-documentation/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Getting Started</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/</link></image><item><title>Setting Up GitHub</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</guid><description>&lt;p>You may find the following video useful:
 &lt;a href="https://youtu.be/8Dd7KRpKeaE" title="Git, GitHub, &amp;amp; GitHub Desktop for beginners" target="_blank" rel="noopener">
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://example.com/static/uploads/git-tutorial.jpg" alt="Thumbnail for &amp;amp;ldquo;Git, GitHub, &amp;amp;amp; GitHub Desktop for beginners&amp;amp;rdquo; by Coder Coder" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/git-tutorial.jpg" alt="Thumbnail for &amp;amp;ldquo;Git, GitHub, &amp;amp;amp; GitHub Desktop for beginners&amp;amp;rdquo; by Coder Coder" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/a>&lt;/p>
 &lt;p>Essentially, Git is a version control software (VCS) and GitHub is a website that allows us to host our code online.&lt;/p>
 &lt;h2 id="github-account">Github Account&lt;/h2>
 &lt;p>This account is required for you to collaborate and interact with our codebase. As all profiles and commits are &lt;strong>public&lt;/strong>, we highly suggest choosing a professional handle and one that allows reviewers to clearly identify you.&lt;/p>
-&lt;p>You may also refer to &lt;a href="https://docs.github.com/en" target="_blank" rel="noopener">GitHub&amp;rsquo;s exisiting guides and documentation&lt;/a>.&lt;/p></description></item><item><title>Installing Prerequisite Software</title><link>https://example.com/docs/01-getting-started/prerequisite-software/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://example.com/docs/01-getting-started/prerequisite-software/</guid><description>&lt;p>You do not need to install both &lt;a href="#scoop-for-windows">Scoop&lt;/a> and &lt;a href="#homebrew-for-macos">Homebrew&lt;/a>. Choose the relevant package manager for the operating system you are working on (Windows or MacOS).&lt;/p>
+&lt;p>You may also refer to &lt;a href="https://docs.github.com/en" target="_blank" rel="noopener">GitHub&amp;rsquo;s exisiting guides and documentation&lt;/a>.&lt;/p></description></item><item><title>Installing Prerequisite Software</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/prerequisite-software/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/prerequisite-software/</guid><description>&lt;p>You do not need to install both &lt;a href="#scoop-for-windows">Scoop&lt;/a> and &lt;a href="#homebrew-for-macos">Homebrew&lt;/a>. Choose the relevant package manager for the operating system you are working on (Windows or MacOS).&lt;/p>
 &lt;blockquote>
 &lt;p>❗ Make sure you install a package manager before the rest of the software to prevent unnecessary headaches.&lt;/p>
 &lt;/blockquote>
@@ -20,7 +20,7 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://example.com/static/uploads/scoop-list.png" alt="Screenshot of search bar" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/scoop-list.png" alt="Screenshot of search bar" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;ol>
@@ -33,7 +33,7 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://example.com/assets/media/execution-policy-change.png" alt="Screenshot of execution policy change" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/execution-policy-change.png" alt="Screenshot of execution policy change" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;ol>
@@ -46,14 +46,14 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://example.com/assets/media/scoop-install-success.png" alt="Screenshot of scoop installation" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/scoop-install-success.png" alt="Screenshot of scoop installation" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>For the following software, you may use &lt;a href="https://scoop.sh/" target="_blank" rel="noopener">scoop&amp;rsquo;s search function&lt;/a> to search for the relevant installation commands (in the event that commands listed here are outdated).&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://example.com/assets/media/scoop-go-search.png" alt="Screenshot of scoop search" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/scoop-go-search.png" alt="Screenshot of scoop search" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h3 id="homebrew-for-macos">Homebrew for MacOS&lt;/h3>
@@ -62,7 +62,7 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://example.com/assets/media/homebrew-search-go.png" alt="Screenshot of homebrew search" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/homebrew-search-go.png" alt="Screenshot of homebrew search" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h3 id="git">Git&lt;/h3>
@@ -93,7 +93,7 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://example.com/assets/media/hugo-extended-example.png" alt="Screenshot of hugo-extended hash" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/hugo-extended-example.png" alt="Screenshot of hugo-extended hash" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h3 id="nodejs">Nodejs&lt;/h3>
@@ -110,7 +110,7 @@
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://example.com/static/uploads/scoop-list.png" alt="Screenshot of scoop list" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/scoop-list.png" alt="Screenshot of scoop list" loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>For MacOS homebrew users, simply input the following into the macOS terminal:&lt;/p>
@@ -124,7 +124,7 @@
 &lt;/ul>
 &lt;h3 id="git-graphical-user-interface-gui">Git Graphical User Interface (GUI)&lt;/h3>
 &lt;p>As our repositiory is hosted on GitHub, &lt;a href="https://desktop.github.com/" target="_blank" rel="noopener">GitHub Desktop&lt;/a> would be less troublesome to set up.&lt;/p>
-&lt;p>Other GUIs such as &lt;a href="https://www.sourcetreeapp.com/" target="_blank" rel="noopener">Sourcetree&lt;/a> may require additional user accounts to be created.&lt;/p></description></item><item><title>Forking the Repository</title><link>https://example.com/docs/01-getting-started/forking-the-repo/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://example.com/docs/01-getting-started/forking-the-repo/</guid><description>&lt;h2 id="what-is-forking">What is Forking?&lt;/h2>
+&lt;p>Other GUIs such as &lt;a href="https://www.sourcetreeapp.com/" target="_blank" rel="noopener">Sourcetree&lt;/a> may require additional user accounts to be created.&lt;/p></description></item><item><title>Forking the Repository</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/forking-the-repo/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/forking-the-repo/</guid><description>&lt;h2 id="what-is-forking">What is Forking?&lt;/h2>
 &lt;p>From the &lt;a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo#about-forks" target="_blank" rel="noopener">GitHub Docs&lt;/a>:&lt;/p>
 &lt;blockquote>
 &lt;p>A fork is a new repository that shares code and visibility settings with the original “upstream” repository.&lt;/p>
