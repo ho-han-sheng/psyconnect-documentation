@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Making Edits | PsyConnect Documentation</title><link>https://example.com/docs/03-making-edits/</link><atom:link href="https://example.com/docs/03-making-edits/index.xml" rel="self" type="application/rss+xml"/><description>Making Edits</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0800</lastBuildDate><image><url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Making Edits</title><link>https://example.com/docs/03-making-edits/</link></image><item><title>Branching</title><link>https://example.com/docs/03-making-edits/branching/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://example.com/docs/03-making-edits/branching/</guid><description>&lt;p>You may wish to refer to &lt;code>17:02&lt;/code> in the &lt;a href="https://youtu.be/8Dd7KRpKeaE?t=1022" target="_blank" rel="noopener">first video we mentioned&lt;/a> for a quick overview on what branching is.&lt;/p>
+&lt;blockquote>
+&lt;p>❗ Always create a new branch before making any new changes locally, do not commit directly to &lt;code>main&lt;/code>. This is a best practice throughout software development.&lt;/p>
+&lt;/blockquote>
+&lt;p>Here are the steps to creating a branch in GitHub Desktop:&lt;/p>
+&lt;ol>
+&lt;li>On GitHub Desktop, go to &lt;code>Branch&lt;/code> and click &lt;code>New branch&lt;/code>.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/branching-1.png" alt="Screenshot of new branch" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="2">
+&lt;li>Create a name for your new branch. Try to keep them descriptive and relevant to the edits you would be making.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/branching-2.png" alt="Screenshot of naming new branch" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="3">
+&lt;li>Your current branch should now reflect your chosen name for the new branch.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/branching-3.png" alt="Screenshot of created branch" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Setting Up Visual Studio Code</title><link>https://example.com/docs/03-making-edits/setting-up-vscode/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://example.com/docs/03-making-edits/setting-up-vscode/</guid><description>&lt;ol>
+&lt;li>On startup, you will be greeted with the &lt;code>Get Started&lt;/code> page. A few options are available, you would want to use &lt;code>Open Folder&lt;/code>.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/vscode-welcome.png" alt="Screenshot of VSCode Welcome Page" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="2">
+&lt;li>
+&lt;p>This opens the native Windows Explorer. Navigate to the location you saved your local, cloned repository to as specified in &lt;a href="Getting-Started.md#cloning-the-fork-to-local-computer">Cloning-the-fork-to-local-computer&lt;/a>. Ensure that the folder selected is correct, i.e., &lt;code>PsyConnect.github.io&lt;/code>.&lt;/p>
+&lt;p>(A) This can be achieved by single-clicking the corresponding folder.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/folder-selection-1.png" alt="Screenshot of Windows Explorer" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>(B) Or, by double-clicking into the folder.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/folder-selection-2.png" alt="Screenshot of Windows Explorer" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Click on &lt;code>Select Folder&lt;/code>. You should now see the repository&amp;rsquo;s folder structure.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/folder-selection-3.png" alt="Screenshot of VSCode" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="vscode-extensions">VSCode Extensions&lt;/h2>
+&lt;p>The base installation of VSCode does not come with functionalities specific to the programming language you use, this prevents unnecessary downloads for features you don&amp;rsquo;t need. Consequently, you need to install these extensions yourself. Fear not for VSCode has a relatively quick and simple installation process for them.&lt;/p>
+&lt;p>Suggested extensions:&lt;/p>
+&lt;ul>
+&lt;li>bungcip.better-toml
+&lt;ul>
+&lt;li>Provides syntax highlighting for &lt;code>.toml&lt;/code> (Tom&amp;rsquo;s Obvious Minimal Language) files&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>rusnasonov.vscode-hugo
+&lt;ul>
+&lt;li>Allows you to locally build and host a &lt;code>hugo&lt;/code> server&lt;/li>
+&lt;li>i.e., locally view your changes to the website without affecting the live website&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>budparr.language-hugo-vscode
+&lt;ul>
+&lt;li>Provides syntax highlighting and snippets for &lt;code>hugo&lt;/code> websites&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>yzhang.markdown-all-in-one
+&lt;ul>
+&lt;li>Provides auto preview and other shortcuts for &lt;code>.md&lt;/code> (Markdown) files&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>DavidAnson.vscode-markdownlint
+&lt;ul>
+&lt;li>Lint (a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs) for &lt;code>.md&lt;/code> (Markdown) files&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>natqe.reload
+&lt;ul>
+&lt;li>Provides a reload button on the bottom right of VSCode.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>tonybaloney.vscode-pets
+&lt;ul>
+&lt;li>Provides a virtual pet to keep you company when working in VSCode&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Here are the steps for installing an extension in VSCode:&lt;/p>
+&lt;ol>
+&lt;li>On the leftmost bar, select the extensions icon.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/vscode-ext-1.png" alt="Screenshot of vscode extensions" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="2">
+&lt;li>Input the extension ID of the aforementioned extensions. e.g., &lt;code>DavidAnson.vscode-markdownlint&lt;/code>&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/vscode-ext-2.png" alt="Screenshot of vscode extensions search bar" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="3">
+&lt;li>Click on the install button.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/vscode-ext-3.png" alt="Screenshot of homepage of vscode extension" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="4">
+&lt;li>Your &lt;code>install&lt;/code> button should now be replaced with a &lt;code>disable&lt;/code> and &lt;code>uninstall&lt;/code> button.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/vscode-ext-4.png" alt="Screenshot of installed vscode extension" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="5">
+&lt;li>
+&lt;p>Repeat this process for the remaining extensions&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Reload VSCode to ensure changes take effect. If you have installed &lt;code>natqe.reload&lt;/code>, there will be a reload button on the bottom right.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/vscode-ext-5.png" alt="Screenshot of reload button" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Content Specific Edits</title><link>https://example.com/docs/03-making-edits/content-specific-edits/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://example.com/docs/03-making-edits/content-specific-edits/</guid><description>&lt;h2 id="creating-an-event-post">Creating an event post&lt;/h2>
+&lt;ol>
+&lt;li>Navigate to &lt;code>content/event&lt;/code>.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/event-folder.png" alt="Screenshot of event folder" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="2">
+&lt;li>You will notice that each individual event has their own folder. Right click any existing event folder (e.g., starred-up-psyconnect-movie) and copy them.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/event-folder-2.png" alt="Screenshot of event folder" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="3">
+&lt;li>Right click the parent &lt;code>event&lt;/code> folder and paste a copy of the existing event folder.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/event-folder-3.png" alt="Screenshot of event folder" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="4">
+&lt;li>Rename the folder to reflect your event (e.g., november-board-games).&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>❗ The folder&amp;rsquo;s name determines the public URL of the page, so ensure that it does not contain anything unprofessional.
+Also note to follow the convention of using &lt;code>-&lt;/code> in place of spaces.&lt;/p>
+&lt;/blockquote>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/event-url.png" alt="Screenshot of event post url" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="5">
+&lt;li>
+&lt;p>Open up the &lt;code>index.md&lt;/code> file.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Replace the existing information. Minimally, the &lt;code>Title&lt;/code>, &lt;code>location&lt;/code>, &lt;code>address&lt;/code>, &lt;code>date&lt;/code>, &lt;code>date_end&lt;/code>, and &lt;code>publishDate&lt;/code> should be filled.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/event-index.png" alt="Screenshot of event index" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="7">
+&lt;li>For the write-up of the event, place them under the second &lt;code>---&lt;/code>.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/event-body-demarcation.png" alt="Screenshot of event index" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="8">
+&lt;li>For the accompanying picture, replace &lt;code>featured.jpg&lt;/code> with the image you wish to use. You can replace it with either VSCode&amp;rsquo;s built-in file explorer OR your operating system&amp;rsquo;s file explorer.&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>❗ You &lt;strong>must&lt;/strong> use &lt;code>featured.jpg&lt;/code> as the name of the picture, otherwise hugo will not know which picture to use.&lt;/p>
+&lt;/blockquote>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/file-explorer.png" alt="Screenshot of local repo in windows file explorer" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="creating-a-resource">Creating a resource&lt;/h2>
+&lt;ol>
+&lt;li>Navigate to &lt;code>content/resources&lt;/code>.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/resources-folder-1.png" alt="Screenshot of resources folder" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol>
+&lt;li>Repeat steps 2 to 7 with any existing resource folder and its &lt;code>index.md&lt;/code>.&lt;/li>
+&lt;/ol>
+&lt;blockquote>
+&lt;p>❗ For resources, minimally &lt;code>title&lt;/code>, &lt;code>authors&lt;/code>, &lt;code>date&lt;/code>, &lt;code>publishDate&lt;/code>, and &lt;code>publication_types&lt;/code> must be filled.&lt;/p>
+&lt;/blockquote>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/resources-index.png" alt="Screenshot of resources index" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="3">
+&lt;li>For the resource itself (e.g., the PDF file), upload it to the same folder &lt;strong>with the same name as its folder&lt;/strong> (e.g., &lt;code>resources/MTH220-summary-sheet&lt;/code> contains &lt;code>MTH220-summary-sheet.pdf&lt;/code>). This allows hugo to automatically link the pdf or other files to the current resource post.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/resources-folder-2.png" alt="Screenshot of resources pdf" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Hosting Local Web Server</title><link>https://example.com/docs/03-making-edits/hosting-local-hugo-server/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://example.com/docs/03-making-edits/hosting-local-hugo-server/</guid><description>&lt;p>Congratulations! You&amp;rsquo;ve finished editing and can now view the fruits of your labour. In order to check if your code is workable and the possible visual changes on the website, you need to deploy a local webserver hosting your offline copy of our website.&lt;/p>
+&lt;p>To do this on VSCode:&lt;/p>
+&lt;ol>
+&lt;li>Ensure all your changes in open editors are saved using the &lt;code>File/Save&lt;/code> button on the top left or the &lt;code>Ctrl+S&lt;/code> keyboard shortcut. You should see your edited file highlighted with either an &lt;code>M&lt;/code> or a &lt;code>U&lt;/code> for modified and uploaded respectively.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/modifed-example.png" alt="Screenshot of modified file" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/uploaded-example.png" alt="Screenshot of uploaded file" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="2">
+&lt;li>Open up VSCode Terminal with the &lt;code>Terminal&lt;/code> tab.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/new-terminal-1.png" alt="Screenshot of terminal tab" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="3">
+&lt;li>A new terminal will show up at the bottom of VSCode.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/new-terminal-2.png" alt="Screenshot of terminal" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="4">
+&lt;li>Type in &lt;code>hugo server&lt;/code> to deploy the website.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/new-terminal-3.png" alt="Screenshot of terminal" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="5">
+&lt;li>The resulting response may be too large for your current window so expand it if you have to. You should receive something similar to the below picture.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/new-terminal-4.png" alt="Screenshot of terminal" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="6">
+&lt;li>Following the last line of the response, open up any web browser and type in &lt;code>http://localhost:1313/&lt;/code> (or whatever url the response mentions). You should be able to interact with and view your local changes to the website.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/localhost.png" alt="Screenshot of terminal" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="7">
+&lt;li>Check your changes and ensure that nothing else is unintentionally affected. Use &lt;code>Ctrl+C&lt;/code> in the same VSCode terminal to stop your web server and continue making edits if you have to. Redeploy the website locally to check your edits again.&lt;/li>
+&lt;/ol>
+&lt;p>Once you are satisfied with your changes, you can now move on to making a commit.&lt;/p></description></item></channel></rss>

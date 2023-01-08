@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Getting Started | PsyConnect Documentation</title><link>https://example.com/docs/01-getting-started/</link><atom:link href="https://example.com/docs/01-getting-started/index.xml" rel="self" type="application/rss+xml"/><description>Getting Started</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0800</lastBuildDate><image><url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Getting Started</title><link>https://example.com/docs/01-getting-started/</link></image><item><title>Setting Up GitHub</title><link>https://example.com/docs/01-getting-started/setting-up-github/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://example.com/docs/01-getting-started/setting-up-github/</guid><description>&lt;p>You may find the following video useful:
+&lt;a href="https://youtu.be/8Dd7KRpKeaE" title="Git, GitHub, &amp;amp; GitHub Desktop for beginners" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://example.com/static/uploads/git-tutorial.jpg" alt="Thumbnail for &amp;amp;ldquo;Git, GitHub, &amp;amp;amp; GitHub Desktop for beginners&amp;amp;rdquo; by Coder Coder" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>&lt;/p>
+&lt;p>Essentially, Git is a version control software (VCS) and GitHub is a website that allows us to host our code online.&lt;/p>
+&lt;h2 id="github-account">Github Account&lt;/h2>
+&lt;p>This account is required for you to collaborate and interact with our codebase. As all profiles and commits are &lt;strong>public&lt;/strong>, we highly suggest choosing a professional handle and one that allows reviewers to clearly identify you.&lt;/p>
+&lt;p>You may also refer to &lt;a href="https://docs.github.com/en" target="_blank" rel="noopener">GitHub&amp;rsquo;s exisiting guides and documentation&lt;/a>.&lt;/p></description></item><item><title>Installing Prerequisite Software</title><link>https://example.com/docs/01-getting-started/prerequisite-software/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://example.com/docs/01-getting-started/prerequisite-software/</guid><description>&lt;p>You do not need to install both &lt;a href="#scoop-for-windows">Scoop&lt;/a> and &lt;a href="#homebrew-for-macos">Homebrew&lt;/a>. Choose the relevant package manager for the operating system you are working on (Windows or MacOS).&lt;/p>
+&lt;blockquote>
+&lt;p>❗ Make sure you install a package manager before the rest of the software to prevent unnecessary headaches.&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="scoop-for-windows">Scoop for Windows&lt;/h3>
+&lt;p>You may refer to &lt;a href="https://scoop.sh/" target="_blank" rel="noopener">Scoop documentation&lt;/a>.&lt;/p>
+&lt;ol>
+&lt;li>Open Windows Powershell by typing in the search bar:&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://example.com/static/uploads/scoop-list.png" alt="Screenshot of search bar" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol>
+&lt;li>Copy and paste the following code into the command-line (this is optional if you are not running a remote script for the first time):&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">Set-ExecutionPolicy&lt;/span> &lt;span class="n">RemoteSigned&lt;/span> &lt;span class="n">-Scope&lt;/span> &lt;span class="n">CurrentUser&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="3">
+&lt;li>You may receive a prompt alerting you to the change in execution policy, answer yes to this with Y:&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://example.com/assets/media/execution-policy-change.png" alt="Screenshot of execution policy change" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol>
+&lt;li>Copy and paste the following code into the command-line:&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">irm &lt;/span>&lt;span class="n">get&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">scoop&lt;/span>&lt;span class="p">.&lt;/span>&lt;span class="n">sh&lt;/span> &lt;span class="p">|&lt;/span> &lt;span class="nb">iex
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="5">
+&lt;li>Wait for scoop to install&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://example.com/assets/media/scoop-install-success.png" alt="Screenshot of scoop installation" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>For the following software, you may use &lt;a href="https://scoop.sh/" target="_blank" rel="noopener">scoop&amp;rsquo;s search function&lt;/a> to search for the relevant installation commands (in the event that commands listed here are outdated).&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://example.com/assets/media/scoop-go-search.png" alt="Screenshot of scoop search" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h3 id="homebrew-for-macos">Homebrew for MacOS&lt;/h3>
+&lt;p>You may refer to the &lt;a href="https://brew.sh/" target="_blank" rel="noopener">Homebrew documentation&lt;/a>.&lt;/p>
+&lt;p>For the following software, you may use &lt;a href="https://formulae.brew.sh/" target="_blank" rel="noopener">homebrew&amp;rsquo;s package browser&lt;/a> to search for the relevant installation commands (in the event that commands listed here are outdated).&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://example.com/assets/media/homebrew-search-go.png" alt="Screenshot of homebrew search" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h3 id="git">Git&lt;/h3>
+&lt;p>&lt;a href="https://git-scm.com/" target="_blank" rel="noopener">Git&lt;/a> is our VCS of choice.&lt;/p>
+&lt;p>For Windows scoop users, simply input the following in powershell:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="n">scoop&lt;/span> &lt;span class="n">install&lt;/span> &lt;span class="n">git&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>For MacOS homebrew users, simply input the following into the macOS terminal:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">brew install git
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="go">Go&lt;/h3>
+&lt;p>A dependency for Hugo-extended.&lt;/p>
+&lt;p>&lt;a href="https://go.dev/doc/" target="_blank" rel="noopener">Go documentation&lt;/a>&lt;/p>
+&lt;p>For Windows scoop users, simply input the following in powershell:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="n">scoop&lt;/span> &lt;span class="n">install&lt;/span> &lt;span class="n">go&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>For MacOS homebrew users, simply input the following into the macOS terminal:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">brew install go
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="hugo-extended">Hugo-extended&lt;/h3>
+&lt;p>This is the framework used for our website, without which you cannot render your webpage locally.&lt;/p>
+&lt;blockquote>
+&lt;p>❗ We are using &lt;a href="https://gohugo.io/documentation/" target="_blank" rel="noopener">hugo-extended&lt;/a>, not base hugo.&lt;/p>
+&lt;/blockquote>
+&lt;p>For Windows scoop users, simply input the following in powershell:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="n">scoop&lt;/span> &lt;span class="n">install&lt;/span> &lt;span class="nb">hugo-extended&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>For MacOS homebrew users, simply input the following into the macOS terminal:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">brew install hugo
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>After installation, check your version of hugo with (for both Windows and macOS):&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="n">hugo&lt;/span> &lt;span class="n">version&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Ensure that your version of hugo includes &lt;code>+extended&lt;/code> after its hash:&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://example.com/assets/media/hugo-extended-example.png" alt="Screenshot of hugo-extended hash" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h3 id="nodejs">Nodejs&lt;/h3>
+&lt;p>May be required for building the server on your local computer.&lt;/p>
+&lt;p>&lt;a href="https://nodejs.org/en/docs/" target="_blank" rel="noopener">Nodejs documentation&lt;/a>&lt;/p>
+&lt;p>For Windows scoop users, simply input the following in powershell:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="n">scoop&lt;/span> &lt;span class="n">install&lt;/span> &lt;span class="n">nodejs&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>For MacOS homebrew users, simply input the following into the macOS terminal:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">brew install node
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="confirm-all-packages-are-successfully-installed">Confirm all packages are successfully installed&lt;/h3>
+&lt;p>Use the &lt;code>list&lt;/code> function for both package managers to identify all the software you have currently installed.&lt;/p>
+&lt;p>For Windows scoop users, simply input the following in powershell:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="n">scoop&lt;/span> &lt;span class="n">list&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://example.com/static/uploads/scoop-list.png" alt="Screenshot of scoop list" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>For MacOS homebrew users, simply input the following into the macOS terminal:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">brew list
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="code-editors">Code Editors&lt;/h3>
+&lt;p>This refers to software that allow you to edit code, usually with syntax highlighting.&lt;/p>
+&lt;p>I (Han Sheng) personally use &lt;a href="https://code.visualstudio.com/" target="_blank" rel="noopener">Visual Studio Code&lt;/a>.&lt;/p>
+&lt;p>Other options include:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://notepad-plus-plus.org/downloads/" target="_blank" rel="noopener">Notepad++&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="git-graphical-user-interface-gui">Git Graphical User Interface (GUI)&lt;/h3>
+&lt;p>As our repositiory is hosted on GitHub, &lt;a href="https://desktop.github.com/" target="_blank" rel="noopener">GitHub Desktop&lt;/a> would be less troublesome to set up.&lt;/p>
+&lt;p>Other GUIs such as &lt;a href="https://www.sourcetreeapp.com/" target="_blank" rel="noopener">Sourcetree&lt;/a> may require additional user accounts to be created.&lt;/p></description></item><item><title>Forking the Repository</title><link>https://example.com/docs/01-getting-started/forking-the-repo/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://example.com/docs/01-getting-started/forking-the-repo/</guid><description>&lt;h2 id="what-is-forking">What is Forking?&lt;/h2>
+&lt;p>From the &lt;a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo#about-forks" target="_blank" rel="noopener">GitHub Docs&lt;/a>:&lt;/p>
+&lt;blockquote>
+&lt;p>A fork is a new repository that shares code and visibility settings with the original “upstream” repository.&lt;/p>
+&lt;/blockquote>
+&lt;p>Essentially, a fork is your copy of the entire repository. This allows multiple people to develop independently and simultaneously as everyone has their own copy. With this, you can experiment with and make edits to your own copy without affecting our &amp;ldquo;live&amp;rdquo; webpage and the main codebase.&lt;/p>
+&lt;p>The belowmentioned steps will guide you in forking our website&amp;rsquo;s repository to your GitHub account.&lt;/p>
+&lt;blockquote>
+&lt;p>❗ You should have created and logged in to your GitHub account at this stage.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="steps-to-fork-the-website-repository">Steps to Fork the Website Repository&lt;/h2>
+&lt;ol>
+&lt;li>Navigate to our website&amp;rsquo;s repository and click on the &lt;code>Fork&lt;/code> button in the top right.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/fork-1.png" alt="Highlighted fork button" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="2">
+&lt;li>Click on the green &lt;code>Create fork&lt;/code> button on this window.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/fork-2.png" alt="Creating a fork" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="3">
+&lt;li>You should now see your forked copy of the repository at &lt;code>your-username/PsyConnect.github.io&lt;/code> forked from &lt;code>PsyConnect/PsyConnect.github.io&lt;/code>.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/fork-3.png" alt="Forked repository" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Congratulations! You now have your own online copy of the repository. But what if you (1) want to edit your code offline, (2) don&amp;rsquo;t have an internet connection or (3) want to make multiple changes to different files?&lt;/p>
+&lt;h2 id="cloning-the-fork-to-local-computer">Cloning the Fork to Local Computer&lt;/h2>
+&lt;p>GitHub&amp;rsquo;s online code editor while useful has its limitations, therefore we need to obtain an offline copy of the repository for us to work on it with our installed code editors. However, this is not just a simple downloading of all files, we also want our local copy on our computers to be synchronised with our fork on GitHub. We can achieve this with cloning!&lt;/p>
+&lt;p>Feel free to refer to the &lt;a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository" target="_blank" rel="noopener">GitHub Docs&lt;/a> for more information on cloning.&lt;/p>
+&lt;h2 id="steps-to-clone-the-fork">Steps to Clone the Fork&lt;/h2>
+&lt;ol>
+&lt;li>Open up GitHub Desktop and log in to your account. You may wish to refer to &lt;code>2:48&lt;/code> in the &lt;a href="https://youtu.be/8Dd7KRpKeaE?t=168" target="_blank" rel="noopener">first video we mentioned&lt;/a> to guide you through set up.&lt;/li>
+&lt;li>Go to &lt;code>File&lt;/code> and click &lt;code>Clone repository&lt;/code>.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/cloning-1.png" alt="Screenshot of clone repository" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;ol start="3">
+&lt;li>Choose the forked repository &lt;code>your-username/PsyConnect.github.io&lt;/code> and choose where you wish to save it in your computer under &lt;code>Local path&lt;/code>.&lt;/li>
+&lt;/ol>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="../assets/images/cloning-2.png" alt="Screenshot of choosing repository to clone" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item></channel></rss>
