@@ -23,15 +23,15 @@ The belowmentioned steps will guide you in forking our website's repository to y
 
 1. Navigate to our website's repository and click on the `Fork` button in the top right.
 
-![Highlighted fork button](../assets/images/fork-1.png)
+![Highlighted fork button](fork-1.png)
 
-2. Click on the green `Create fork` button on this window.
+1. Click on the green `Create fork` button on this window.
 
-![Creating a fork](../assets/images/fork-2.png)
+![Creating a fork](fork-2.png)
 
-3. You should now see your forked copy of the repository at `your-username/PsyConnect.github.io` forked from `PsyConnect/PsyConnect.github.io`.
+1. You should now see your forked copy of the repository at `your-username/PsyConnect.github.io` forked from `PsyConnect/PsyConnect.github.io`.
 
-![Forked repository](../assets/images/fork-3.png)
+![Forked repository](fork-3.png)
 
 Congratulations! You now have your own online copy of the repository. But what if you (1) want to edit your code offline, (2) don't have an internet connection or (3) want to make multiple changes to different files?
 
@@ -46,8 +46,8 @@ Feel free to refer to the [GitHub Docs](https://docs.github.com/en/get-started/q
 1. Open up GitHub Desktop and log in to your account. You may wish to refer to `2:48` in the [first video we mentioned](https://youtu.be/8Dd7KRpKeaE?t=168) to guide you through set up.
 2. Go to `File` and click `Clone repository`.
 
-![Screenshot of clone repository](../assets/images/cloning-1.png)
+![Screenshot of clone repository](cloning-1.png)
 
-3. Choose the forked repository `your-username/PsyConnect.github.io` and choose where you wish to save it in your computer under `Local path`.
+1. Choose the forked repository `your-username/PsyConnect.github.io` and choose where you wish to save it in your computer under `Local path`.
 
-![Screenshot of choosing repository to clone](../assets/images/cloning-2.png)
+![Screenshot of choosing repository to clone](cloning-2.png)

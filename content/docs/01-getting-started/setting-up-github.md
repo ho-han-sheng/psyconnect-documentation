@@ -8,7 +8,7 @@ weight: 10
 ---
 
 You may find the following video useful:
-[![Thumbnail for "Git, GitHub, & GitHub Desktop for beginners" by Coder Coder](/static/uploads/git-tutorial.jpg)](https://youtu.be/8Dd7KRpKeaE "Git, GitHub, & GitHub Desktop for beginners")
+[![Thumbnail for "Git, GitHub, & GitHub Desktop for beginners" by Coder Coder](git-tutorial.jpg)](https://youtu.be/8Dd7KRpKeaE "Git, GitHub, & GitHub Desktop for beginners")
 
 Essentially, Git is a version control software (VCS) and GitHub is a website that allows us to host our code online.
 

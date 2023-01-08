@@ -9,21 +9,21 @@ weight: 20
 
 1. On startup, you will be greeted with the `Get Started` page. A few options are available, you would want to use `Open Folder`.
 
-![Screenshot of VSCode Welcome Page](../assets/images/vscode-welcome.png)
+![Screenshot of VSCode Welcome Page](vscode-welcome.png)
 
-2. This opens the native Windows Explorer. Navigate to the location you saved your local, cloned repository to as specified in [Cloning-the-fork-to-local-computer](Getting-Started.md#cloning-the-fork-to-local-computer). Ensure that the folder selected is correct, i.e., `PsyConnect.github.io`.
+1. This opens the native Windows Explorer. Navigate to the location you saved your local, cloned repository to as specified in [Cloning-the-fork-to-local-computer](Getting-Started.md#cloning-the-fork-to-local-computer). Ensure that the folder selected is correct, i.e., `PsyConnect.github.io`.
    
     (A) This can be achieved by single-clicking the corresponding folder.
 
-    ![Screenshot of Windows Explorer](../assets/images/folder-selection-1.png)
+    ![Screenshot of Windows Explorer](folder-selection-1.png)
 
     (B) Or, by double-clicking into the folder.
 
-    ![Screenshot of Windows Explorer](../assets/images/folder-selection-2.png)
+    ![Screenshot of Windows Explorer](folder-selection-2.png)
 
-3. Click on `Select Folder`. You should now see the repository's folder structure.
+2. Click on `Select Folder`. You should now see the repository's folder structure.
 
-![Screenshot of VSCode](../assets/images/folder-selection-3.png)
+![Screenshot of VSCode](folder-selection-3.png)
 
 ## VSCode Extensions
 
@@ -51,22 +51,22 @@ Here are the steps for installing an extension in VSCode:
 
 1. On the leftmost bar, select the extensions icon.
 
-![Screenshot of vscode extensions](../assets/images/vscode-ext-1.png)
+![Screenshot of vscode extensions](vscode-ext-1.png)
 
-2. Input the extension ID of the aforementioned extensions. e.g., `DavidAnson.vscode-markdownlint`
+1. Input the extension ID of the aforementioned extensions. e.g., `DavidAnson.vscode-markdownlint`
 
-![Screenshot of vscode extensions search bar](../assets/images/vscode-ext-2.png)
+![Screenshot of vscode extensions search bar](vscode-ext-2.png)
 
-3. Click on the install button.
+1. Click on the install button.
 
-![Screenshot of homepage of vscode extension](../assets/images/vscode-ext-3.png)
+![Screenshot of homepage of vscode extension](vscode-ext-3.png)
 
-4. Your `install` button should now be replaced with a `disable` and `uninstall` button.
+1. Your `install` button should now be replaced with a `disable` and `uninstall` button.
 
-![Screenshot of installed vscode extension](../assets/images/vscode-ext-4.png)
+![Screenshot of installed vscode extension](vscode-ext-4.png)
 
-5. Repeat this process for the remaining extensions
+1. Repeat this process for the remaining extensions
 
-6. Reload VSCode to ensure changes take effect. If you have installed `natqe.reload`, there will be a reload button on the bottom right.
+2. Reload VSCode to ensure changes take effect. If you have installed `natqe.reload`, there will be a reload button on the bottom right.
 
-![Screenshot of reload button](../assets/images/vscode-ext-5.png)
+![Screenshot of reload button](vscode-ext-5.png)

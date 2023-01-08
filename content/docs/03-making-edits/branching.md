@@ -15,12 +15,12 @@ Here are the steps to creating a branch in GitHub Desktop:
 
 1. On GitHub Desktop, go to `Branch` and click `New branch`.
 
-![Screenshot of new branch](../assets/images/branching-1.png)
+![Screenshot of new branch](branching-1.png)
 
-2. Create a name for your new branch. Try to keep them descriptive and relevant to the edits you would be making.
+1. Create a name for your new branch. Try to keep them descriptive and relevant to the edits you would be making.
 
-![Screenshot of naming new branch](../assets/images/branching-2.png)
+![Screenshot of naming new branch](branching-2.png)
 
-3. Your current branch should now reflect your chosen name for the new branch.
+1. Your current branch should now reflect your chosen name for the new branch.
 
-![Screenshot of created branch](../assets/images/branching-3.png)
+![Screenshot of created branch](branching-3.png)
