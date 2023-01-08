@@ -9,31 +9,59 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/branching-1.png" alt="Screenshot of new branch" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of new branch" srcset="
+/psyconnect-documentation/media/branching-1_hudecf61fc392c1e7613e90b1dd5520eb3_32378_1d99d551e5347d4c8787b731072d4260.webp 400w,
+/psyconnect-documentation/media/branching-1_hudecf61fc392c1e7613e90b1dd5520eb3_32378_455a604f8771e7fa2fcf637d726bf049.webp 760w,
+/psyconnect-documentation/media/branching-1_hudecf61fc392c1e7613e90b1dd5520eb3_32378_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/branching-1_hudecf61fc392c1e7613e90b1dd5520eb3_32378_1d99d551e5347d4c8787b731072d4260.webp"
+width="568"
+height="473"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="2">
+&lt;ol>
 &lt;li>Create a name for your new branch. Try to keep them descriptive and relevant to the edits you would be making.&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/branching-2.png" alt="Screenshot of naming new branch" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of naming new branch" srcset="
+/psyconnect-documentation/media/branching-2_hu6fc4169e461eeb935d395a5fd8b9505f_13131_5eae3eacf54298172ebdbcce086d075d.webp 400w,
+/psyconnect-documentation/media/branching-2_hu6fc4169e461eeb935d395a5fd8b9505f_13131_632d93c2fe9e2d9e878f8e7687aeaded.webp 760w,
+/psyconnect-documentation/media/branching-2_hu6fc4169e461eeb935d395a5fd8b9505f_13131_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/branching-2_hu6fc4169e461eeb935d395a5fd8b9505f_13131_5eae3eacf54298172ebdbcce086d075d.webp"
+width="407"
+height="257"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="3">
+&lt;ol>
 &lt;li>Your current branch should now reflect your chosen name for the new branch.&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/branching-3.png" alt="Screenshot of created branch" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of created branch" srcset="
+/psyconnect-documentation/media/branching-3_hu9bb8aa8e3a9c5c6a7db6a3424b4f6744_12863_e4e43f8619f48d97f8082fc9eb87a97a.webp 400w,
+/psyconnect-documentation/media/branching-3_hu9bb8aa8e3a9c5c6a7db6a3424b4f6744_12863_cc7cb21d6a9ec220cd9789dcda87fd13.webp 760w,
+/psyconnect-documentation/media/branching-3_hu9bb8aa8e3a9c5c6a7db6a3424b4f6744_12863_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/branching-3_hu9bb8aa8e3a9c5c6a7db6a3424b4f6744_12863_e4e43f8619f48d97f8082fc9eb87a97a.webp"
+width="678"
+height="155"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Setting Up GitHub</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</guid><description>&lt;p>You may find the following video useful:
 &lt;a href="https://youtu.be/8Dd7KRpKeaE" title="Git, GitHub, &amp;amp; GitHub Desktop for beginners" target="_blank" rel="noopener">
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/git-tutorial.jpg" alt="Thumbnail for &amp;amp;ldquo;Git, GitHub, &amp;amp;amp; GitHub Desktop for beginners&amp;amp;rdquo; by Coder Coder" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Thumbnail for &amp;amp;ldquo;Git, GitHub, &amp;amp;amp; GitHub Desktop for beginners&amp;amp;rdquo; by Coder Coder" srcset="
+/psyconnect-documentation/media/git-tutorial_huac96a3d0984cf6264f8175417b58e0e8_40729_6a7f70968caacf7f9964d1d5ef796fc6.webp 400w,
+/psyconnect-documentation/media/git-tutorial_huac96a3d0984cf6264f8175417b58e0e8_40729_5ee8afe0205cdca3bfe1d78f1368d946.webp 760w,
+/psyconnect-documentation/media/git-tutorial_huac96a3d0984cf6264f8175417b58e0e8_40729_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/git-tutorial_huac96a3d0984cf6264f8175417b58e0e8_40729_6a7f70968caacf7f9964d1d5ef796fc6.webp"
+width="760"
+height="427"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/a>&lt;/p>
 &lt;p>Essentially, Git is a version control software (VCS) and GitHub is a website that allows us to host our code online.&lt;/p>
@@ -51,7 +79,14 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/scoop-list.png" alt="Screenshot of search bar" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of search bar" srcset="
+/psyconnect-documentation/media/scoop-list_hudd230034d24d6fab03c1a64e737078d5_13533_d566bf5e16467b71a81d44079c119378.webp 400w,
+/psyconnect-documentation/media/scoop-list_hudd230034d24d6fab03c1a64e737078d5_13533_063398dcbbb537739a32797d1ddeabfa.webp 760w,
+/psyconnect-documentation/media/scoop-list_hudd230034d24d6fab03c1a64e737078d5_13533_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/scoop-list_hudd230034d24d6fab03c1a64e737078d5_13533_d566bf5e16467b71a81d44079c119378.webp"
+width="442"
+height="188"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;ol>
@@ -64,7 +99,14 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/execution-policy-change.png" alt="Screenshot of execution policy change" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of execution policy change" srcset="
+/psyconnect-documentation/media/execution-policy-change_hue61cbc6576ab63027cacdb8bdc9b5214_100779_712b99dc5a30b7f94de02495939a463d.webp 400w,
+/psyconnect-documentation/media/execution-policy-change_hue61cbc6576ab63027cacdb8bdc9b5214_100779_e95a0ddcd4abd9ee8258ea0c531b0566.webp 760w,
+/psyconnect-documentation/media/execution-policy-change_hue61cbc6576ab63027cacdb8bdc9b5214_100779_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/execution-policy-change_hue61cbc6576ab63027cacdb8bdc9b5214_100779_712b99dc5a30b7f94de02495939a463d.webp"
+width="624"
+height="108"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;ol>
@@ -77,14 +119,28 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/scoop-install-success.png" alt="Screenshot of scoop installation" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of scoop installation" srcset="
+/psyconnect-documentation/media/scoop-install-success_hu7e321b51adfc41c8720dcaeedbd64c70_93815_7115e3c4d76ca51d1ca533e1b942509e.webp 400w,
+/psyconnect-documentation/media/scoop-install-success_hu7e321b51adfc41c8720dcaeedbd64c70_93815_d2e8f8aab6c8775fb265cdcfd520e708.webp 760w,
+/psyconnect-documentation/media/scoop-install-success_hu7e321b51adfc41c8720dcaeedbd64c70_93815_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/scoop-install-success_hu7e321b51adfc41c8720dcaeedbd64c70_93815_7115e3c4d76ca51d1ca533e1b942509e.webp"
+width="478"
+height="187"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>For the following software, you may use &lt;a href="https://scoop.sh/" target="_blank" rel="noopener">scoop&amp;rsquo;s search function&lt;/a> to search for the relevant installation commands (in the event that commands listed here are outdated).&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/scoop-go-search.png" alt="Screenshot of scoop search" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of scoop search" srcset="
+/psyconnect-documentation/media/scoop-go-search_hu583981e2cd865dd5ff8e5173d5ed9b79_36180_3e780d2ffdf38b42cb27a9eedccb5753.webp 400w,
+/psyconnect-documentation/media/scoop-go-search_hu583981e2cd865dd5ff8e5173d5ed9b79_36180_4f737b391a9f5dc668b2c4e75f70bc77.webp 760w,
+/psyconnect-documentation/media/scoop-go-search_hu583981e2cd865dd5ff8e5173d5ed9b79_36180_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/scoop-go-search_hu583981e2cd865dd5ff8e5173d5ed9b79_36180_3e780d2ffdf38b42cb27a9eedccb5753.webp"
+width="760"
+height="276"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h3 id="homebrew-for-macos">Homebrew for MacOS&lt;/h3>
@@ -93,7 +149,14 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/homebrew-search-go.png" alt="Screenshot of homebrew search" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of homebrew search" srcset="
+/psyconnect-documentation/media/homebrew-search-go_hudf31249886e115c584e462f22e08f570_86223_bde691d4ea2fdc5b41605550428df9b6.webp 400w,
+/psyconnect-documentation/media/homebrew-search-go_hudf31249886e115c584e462f22e08f570_86223_a0cdabfa7d88701d34ed879cfd9b4436.webp 760w,
+/psyconnect-documentation/media/homebrew-search-go_hudf31249886e115c584e462f22e08f570_86223_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/homebrew-search-go_hudf31249886e115c584e462f22e08f570_86223_bde691d4ea2fdc5b41605550428df9b6.webp"
+width="677"
+height="718"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h3 id="git">Git&lt;/h3>
@@ -124,7 +187,14 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/hugo-extended-example.png" alt="Screenshot of hugo-extended hash" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of hugo-extended hash" srcset="
+/psyconnect-documentation/media/hugo-extended-example_hueca43c1caa856c5907de3d7cec4c0f12_6274_023876363fe1921ea7d4d4f69c1e49e4.webp 400w,
+/psyconnect-documentation/media/hugo-extended-example_hueca43c1caa856c5907de3d7cec4c0f12_6274_f2d315393588bfd78f945053acea7244.webp 760w,
+/psyconnect-documentation/media/hugo-extended-example_hueca43c1caa856c5907de3d7cec4c0f12_6274_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/hugo-extended-example_hueca43c1caa856c5907de3d7cec4c0f12_6274_023876363fe1921ea7d4d4f69c1e49e4.webp"
+width="547"
+height="62"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h3 id="nodejs">Nodejs&lt;/h3>
@@ -141,7 +211,14 @@
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="https://ho-han-sheng.github.io/psyconnect-documentation/static/uploads/scoop-list.png" alt="Screenshot of scoop list" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of scoop list" srcset="
+/psyconnect-documentation/media/scoop-list_hudd230034d24d6fab03c1a64e737078d5_13533_d566bf5e16467b71a81d44079c119378.webp 400w,
+/psyconnect-documentation/media/scoop-list_hudd230034d24d6fab03c1a64e737078d5_13533_063398dcbbb537739a32797d1ddeabfa.webp 760w,
+/psyconnect-documentation/media/scoop-list_hudd230034d24d6fab03c1a64e737078d5_13533_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/scoop-list_hudd230034d24d6fab03c1a64e737078d5_13533_d566bf5e16467b71a81d44079c119378.webp"
+width="442"
+height="188"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>For MacOS homebrew users, simply input the following into the macOS terminal:&lt;/p>
@@ -161,24 +238,45 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/vscode-welcome.png" alt="Screenshot of VSCode Welcome Page" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of VSCode Welcome Page" srcset="
+/psyconnect-documentation/media/vscode-welcome_hu88991a557911a1a65791fda0410ab718_75818_e4d644b6e8ebdc5d500cd9a67d15e374.webp 400w,
+/psyconnect-documentation/media/vscode-welcome_hu88991a557911a1a65791fda0410ab718_75818_2254f721bfb35826296921769b6fb888.webp 760w,
+/psyconnect-documentation/media/vscode-welcome_hu88991a557911a1a65791fda0410ab718_75818_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/vscode-welcome_hu88991a557911a1a65791fda0410ab718_75818_e4d644b6e8ebdc5d500cd9a67d15e374.webp"
+width="760"
+height="552"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="2">
+&lt;ol>
 &lt;li>
 &lt;p>This opens the native Windows Explorer. Navigate to the location you saved your local, cloned repository to as specified in &lt;a href="Getting-Started.md#cloning-the-fork-to-local-computer">Cloning-the-fork-to-local-computer&lt;/a>. Ensure that the folder selected is correct, i.e., &lt;code>PsyConnect.github.io&lt;/code>.&lt;/p>
 &lt;p>(A) This can be achieved by single-clicking the corresponding folder.&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/folder-selection-1.png" alt="Screenshot of Windows Explorer" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of Windows Explorer" srcset="
+/psyconnect-documentation/media/folder-selection-1_hu6f8954f895dd868b37b30dbb8350a268_26296_30b87bd532eff51c1594a474e97e7299.webp 400w,
+/psyconnect-documentation/media/folder-selection-1_hu6f8954f895dd868b37b30dbb8350a268_26296_5f57bdb41d267407d41a311d7fea06ab.webp 760w,
+/psyconnect-documentation/media/folder-selection-1_hu6f8954f895dd868b37b30dbb8350a268_26296_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/folder-selection-1_hu6f8954f895dd868b37b30dbb8350a268_26296_30b87bd532eff51c1594a474e97e7299.webp"
+width="760"
+height="457"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>(B) Or, by double-clicking into the folder.&lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/folder-selection-2.png" alt="Screenshot of Windows Explorer" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of Windows Explorer" srcset="
+/psyconnect-documentation/media/folder-selection-2_hua3471a06cf254748e0f3108998fce5c1_34649_61558ba68f4631aca4ecaf253009860d.webp 400w,
+/psyconnect-documentation/media/folder-selection-2_hua3471a06cf254748e0f3108998fce5c1_34649_c65ffa5e89d440b6f31266e2cea95490.webp 760w,
+/psyconnect-documentation/media/folder-selection-2_hua3471a06cf254748e0f3108998fce5c1_34649_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/folder-selection-2_hua3471a06cf254748e0f3108998fce5c1_34649_61558ba68f4631aca4ecaf253009860d.webp"
+width="760"
+height="459"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;/li>
@@ -189,7 +287,14 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/folder-selection-3.png" alt="Screenshot of VSCode" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of VSCode" srcset="
+/psyconnect-documentation/media/folder-selection-3_hu6b9291b1bf0631a663ff684362c40a5c_27986_1e73e12a0d1aa51fb1c57c19ec078fc8.webp 400w,
+/psyconnect-documentation/media/folder-selection-3_hu6b9291b1bf0631a663ff684362c40a5c_27986_47bad69986fd90ea168396801a8893aa.webp 760w,
+/psyconnect-documentation/media/folder-selection-3_hu6b9291b1bf0631a663ff684362c40a5c_27986_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/folder-selection-3_hu6b9291b1bf0631a663ff684362c40a5c_27986_1e73e12a0d1aa51fb1c57c19ec078fc8.webp"
+width="407"
+height="556"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h2 id="vscode-extensions">VSCode Extensions&lt;/h2>
@@ -240,37 +345,65 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/vscode-ext-1.png" alt="Screenshot of vscode extensions" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of vscode extensions" srcset="
+/psyconnect-documentation/media/vscode-ext-1_hu9377b1ceccf289c65f9c9cb617674339_69049_b009c78d80064792ea47f5a0e9182fd1.webp 400w,
+/psyconnect-documentation/media/vscode-ext-1_hu9377b1ceccf289c65f9c9cb617674339_69049_274b84b5769d030ffb172a0c4c01563f.webp 760w,
+/psyconnect-documentation/media/vscode-ext-1_hu9377b1ceccf289c65f9c9cb617674339_69049_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/vscode-ext-1_hu9377b1ceccf289c65f9c9cb617674339_69049_b009c78d80064792ea47f5a0e9182fd1.webp"
+width="294"
+height="320"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="2">
+&lt;ol>
 &lt;li>Input the extension ID of the aforementioned extensions. e.g., &lt;code>DavidAnson.vscode-markdownlint&lt;/code>&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/vscode-ext-2.png" alt="Screenshot of vscode extensions search bar" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of vscode extensions search bar" srcset="
+/psyconnect-documentation/media/vscode-ext-2_hu47b56de35c04defaa4385eacd71b1ea7_103874_8acc8614d2734e1aed46482c9fb13401.webp 400w,
+/psyconnect-documentation/media/vscode-ext-2_hu47b56de35c04defaa4385eacd71b1ea7_103874_b75e6dc2e3357f6c2dc5802d16d51593.webp 760w,
+/psyconnect-documentation/media/vscode-ext-2_hu47b56de35c04defaa4385eacd71b1ea7_103874_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/vscode-ext-2_hu47b56de35c04defaa4385eacd71b1ea7_103874_8acc8614d2734e1aed46482c9fb13401.webp"
+width="295"
+height="412"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="3">
+&lt;ol>
 &lt;li>Click on the install button.&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/vscode-ext-3.png" alt="Screenshot of homepage of vscode extension" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of homepage of vscode extension" srcset="
+/psyconnect-documentation/media/vscode-ext-3_hu843fbec4fc72431c1f32b9ed49725256_94750_eee24430ead26ad503a6c7c5488d93a3.webp 400w,
+/psyconnect-documentation/media/vscode-ext-3_hu843fbec4fc72431c1f32b9ed49725256_94750_a6f6ccfca01b14e2099143662e04091c.webp 760w,
+/psyconnect-documentation/media/vscode-ext-3_hu843fbec4fc72431c1f32b9ed49725256_94750_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/vscode-ext-3_hu843fbec4fc72431c1f32b9ed49725256_94750_eee24430ead26ad503a6c7c5488d93a3.webp"
+width="760"
+height="340"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="4">
+&lt;ol>
 &lt;li>Your &lt;code>install&lt;/code> button should now be replaced with a &lt;code>disable&lt;/code> and &lt;code>uninstall&lt;/code> button.&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/vscode-ext-4.png" alt="Screenshot of installed vscode extension" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of installed vscode extension" srcset="
+/psyconnect-documentation/media/vscode-ext-4_hu8e1ed0bfd08fb31bdd604f42328cb4e9_62066_bdf9f1a2d7a6179b68da7c300ae60e5b.webp 400w,
+/psyconnect-documentation/media/vscode-ext-4_hu8e1ed0bfd08fb31bdd604f42328cb4e9_62066_a5983b1f76ad362462e6035e234fc98f.webp 760w,
+/psyconnect-documentation/media/vscode-ext-4_hu8e1ed0bfd08fb31bdd604f42328cb4e9_62066_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/vscode-ext-4_hu8e1ed0bfd08fb31bdd604f42328cb4e9_62066_bdf9f1a2d7a6179b68da7c300ae60e5b.webp"
+width="760"
+height="244"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="5">
+&lt;ol>
 &lt;li>
 &lt;p>Repeat this process for the remaining extensions&lt;/p>
 &lt;/li>
@@ -281,7 +414,14 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/vscode-ext-5.png" alt="Screenshot of reload button" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of reload button" srcset="
+/psyconnect-documentation/media/vscode-ext-5_hu06fff113220262c2bda0a3c0e66c7de2_7172_2dff83f2f31be863e04dbf335fa9c608.webp 400w,
+/psyconnect-documentation/media/vscode-ext-5_hu06fff113220262c2bda0a3c0e66c7de2_7172_e14a917b20cd4a3620311fd745d40ee6.webp 760w,
+/psyconnect-documentation/media/vscode-ext-5_hu06fff113220262c2bda0a3c0e66c7de2_7172_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/vscode-ext-5_hu06fff113220262c2bda0a3c0e66c7de2_7172_2dff83f2f31be863e04dbf335fa9c608.webp"
+width="191"
+height="52"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Content Specific Edits</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/content-specific-edits/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/content-specific-edits/</guid><description>&lt;h2 id="creating-an-event-post">Creating an event post&lt;/h2>
 &lt;ol>
@@ -290,28 +430,49 @@
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/event-folder.png" alt="Screenshot of event folder" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of event folder" srcset="
+/psyconnect-documentation/media/event-folder_hua8dcdde50a6ff1a670611252d3cf4ccd_19861_55dd342100e050453e7e891f41501c08.webp 400w,
+/psyconnect-documentation/media/event-folder_hua8dcdde50a6ff1a670611252d3cf4ccd_19861_d7bd8f2927236ece42a59921b8db6647.webp 760w,
+/psyconnect-documentation/media/event-folder_hua8dcdde50a6ff1a670611252d3cf4ccd_19861_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/event-folder_hua8dcdde50a6ff1a670611252d3cf4ccd_19861_55dd342100e050453e7e891f41501c08.webp"
+width="254"
+height="588"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="2">
+&lt;ol>
 &lt;li>You will notice that each individual event has their own folder. Right click any existing event folder (e.g., starred-up-psyconnect-movie) and copy them.&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/event-folder-2.png" alt="Screenshot of event folder" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of event folder" srcset="
+/psyconnect-documentation/media/event-folder-2_hu51ca27d31020fc617cade769ad56f563_35582_d518ced767ff2136ac9f9895198c6e6c.webp 400w,
+/psyconnect-documentation/media/event-folder-2_hu51ca27d31020fc617cade769ad56f563_35582_9f5f1920e03a6182e211cda399160702.webp 760w,
+/psyconnect-documentation/media/event-folder-2_hu51ca27d31020fc617cade769ad56f563_35582_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/event-folder-2_hu51ca27d31020fc617cade769ad56f563_35582_d518ced767ff2136ac9f9895198c6e6c.webp"
+width="497"
+height="495"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="3">
+&lt;ol>
 &lt;li>Right click the parent &lt;code>event&lt;/code> folder and paste a copy of the existing event folder.&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/event-folder-3.png" alt="Screenshot of event folder" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of event folder" srcset="
+/psyconnect-documentation/media/event-folder-3_hu0e07f0834c561629eef7bd72fef1b78f_9177_155dd28f647beb4fe3b627c87e74f2c4.webp 400w,
+/psyconnect-documentation/media/event-folder-3_hu0e07f0834c561629eef7bd72fef1b78f_9177_8d73f1fc6e9e2ebb421139e3eba8ccca.webp 760w,
+/psyconnect-documentation/media/event-folder-3_hu0e07f0834c561629eef7bd72fef1b78f_9177_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/event-folder-3_hu0e07f0834c561629eef7bd72fef1b78f_9177_155dd28f647beb4fe3b627c87e74f2c4.webp"
+width="316"
+height="164"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="4">
+&lt;ol>
 &lt;li>Rename the folder to reflect your event (e.g., november-board-games).&lt;/li>
 &lt;/ol>
 &lt;blockquote>
@@ -321,10 +482,17 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/event-url.png" alt="Screenshot of event post url" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of event post url" srcset="
+/psyconnect-documentation/media/event-url_huf0d586dec599c505ffbf6f3a1a93eb31_3554_24c08ba4e9b892e5c51f14af64a52d87.webp 400w,
+/psyconnect-documentation/media/event-url_huf0d586dec599c505ffbf6f3a1a93eb31_3554_0b5322533682ee06525c81b37ed149f5.webp 760w,
+/psyconnect-documentation/media/event-url_huf0d586dec599c505ffbf6f3a1a93eb31_3554_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/event-url_huf0d586dec599c505ffbf6f3a1a93eb31_3554_24c08ba4e9b892e5c51f14af64a52d87.webp"
+width="402"
+height="39"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="5">
+&lt;ol>
 &lt;li>
 &lt;p>Open up the &lt;code>index.md&lt;/code> file.&lt;/p>
 &lt;/li>
@@ -335,19 +503,33 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/event-index.png" alt="Screenshot of event index" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of event index" srcset="
+/psyconnect-documentation/media/event-index_hu37a40e7256930ebc81452bd4b1df8fa4_47911_fb1b8298b06ea47e2f84e8d66e766e9f.webp 400w,
+/psyconnect-documentation/media/event-index_hu37a40e7256930ebc81452bd4b1df8fa4_47911_2c807c90c37255c34e0259c9d7eb93bc.webp 760w,
+/psyconnect-documentation/media/event-index_hu37a40e7256930ebc81452bd4b1df8fa4_47911_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/event-index_hu37a40e7256930ebc81452bd4b1df8fa4_47911_fb1b8298b06ea47e2f84e8d66e766e9f.webp"
+width="595"
+height="697"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="7">
+&lt;ol>
 &lt;li>For the write-up of the event, place them under the second &lt;code>---&lt;/code>.&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/event-body-demarcation.png" alt="Screenshot of event index" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of event index" srcset="
+/psyconnect-documentation/media/event-body-demarcation_hua951e20cd8163c3c058cab2d3f9f642a_95531_8859a3a4cb4a3eeacd890173800a5318.webp 400w,
+/psyconnect-documentation/media/event-body-demarcation_hua951e20cd8163c3c058cab2d3f9f642a_95531_472e871bd0df8ab140c1b8385cb0ce5c.webp 760w,
+/psyconnect-documentation/media/event-body-demarcation_hua951e20cd8163c3c058cab2d3f9f642a_95531_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/event-body-demarcation_hua951e20cd8163c3c058cab2d3f9f642a_95531_8859a3a4cb4a3eeacd890173800a5318.webp"
+width="526"
+height="289"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="8">
+&lt;ol>
 &lt;li>For the accompanying picture, replace &lt;code>featured.jpg&lt;/code> with the image you wish to use. You can replace it with either VSCode&amp;rsquo;s built-in file explorer OR your operating system&amp;rsquo;s file explorer.&lt;/li>
 &lt;/ol>
 &lt;blockquote>
@@ -356,7 +538,14 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/file-explorer.png" alt="Screenshot of local repo in windows file explorer" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of local repo in windows file explorer" srcset="
+/psyconnect-documentation/media/file-explorer_hu69f7c1203bada4267248a9dfa0e8fa0d_92291_713e36043a0e9d30f8493133d61dd210.webp 400w,
+/psyconnect-documentation/media/file-explorer_hu69f7c1203bada4267248a9dfa0e8fa0d_92291_cc2b68129a2e65c7aa481b4da9c6a927.webp 760w,
+/psyconnect-documentation/media/file-explorer_hu69f7c1203bada4267248a9dfa0e8fa0d_92291_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/file-explorer_hu69f7c1203bada4267248a9dfa0e8fa0d_92291_713e36043a0e9d30f8493133d61dd210.webp"
+width="760"
+height="576"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h2 id="creating-a-resource">Creating a resource&lt;/h2>
@@ -366,7 +555,14 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/resources-folder-1.png" alt="Screenshot of resources folder" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of resources folder" srcset="
+/psyconnect-documentation/media/resources-folder-1_hu37006916a60225b1c65879497b6bab74_5244_66d5ae98c2c9e480d05cc87686125ce3.webp 400w,
+/psyconnect-documentation/media/resources-folder-1_hu37006916a60225b1c65879497b6bab74_5244_babcc1fc5c51b0ac3e9dbfc7d4a61529.webp 760w,
+/psyconnect-documentation/media/resources-folder-1_hu37006916a60225b1c65879497b6bab74_5244_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/resources-folder-1_hu37006916a60225b1c65879497b6bab74_5244_66d5ae98c2c9e480d05cc87686125ce3.webp"
+width="299"
+height="94"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;ol>
@@ -378,16 +574,30 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/resources-index.png" alt="Screenshot of resources index" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of resources index" srcset="
+/psyconnect-documentation/media/resources-index_huf19cff5d87eadc025f922126d4f09a38_85250_fccafeafe8a340e6ea5bb8a7f7d647bb.webp 400w,
+/psyconnect-documentation/media/resources-index_huf19cff5d87eadc025f922126d4f09a38_85250_98f66d7e2750a0c6be187f453c4e5d9a.webp 760w,
+/psyconnect-documentation/media/resources-index_huf19cff5d87eadc025f922126d4f09a38_85250_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/resources-index_huf19cff5d87eadc025f922126d4f09a38_85250_fccafeafe8a340e6ea5bb8a7f7d647bb.webp"
+width="554"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="3">
+&lt;ol>
 &lt;li>For the resource itself (e.g., the PDF file), upload it to the same folder &lt;strong>with the same name as its folder&lt;/strong> (e.g., &lt;code>resources/MTH220-summary-sheet&lt;/code> contains &lt;code>MTH220-summary-sheet.pdf&lt;/code>). This allows hugo to automatically link the pdf or other files to the current resource post.&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/resources-folder-2.png" alt="Screenshot of resources pdf" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of resources pdf" srcset="
+/psyconnect-documentation/media/resources-folder-2_hu71e463968ffa60ccaf17a732ea33cb45_8424_6808c88f36127d0d3b4414e49ed2a54d.webp 400w,
+/psyconnect-documentation/media/resources-folder-2_hu71e463968ffa60ccaf17a732ea33cb45_8424_9df852501d72d5cc17f2e7e82e9e8f67.webp 760w,
+/psyconnect-documentation/media/resources-folder-2_hu71e463968ffa60ccaf17a732ea33cb45_8424_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/resources-folder-2_hu71e463968ffa60ccaf17a732ea33cb45_8424_6808c88f36127d0d3b4414e49ed2a54d.webp"
+width="312"
+height="155"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Forking the Repository</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/forking-the-repo/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/forking-the-repo/</guid><description>&lt;h2 id="what-is-forking">What is Forking?&lt;/h2>
 &lt;p>From the &lt;a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo#about-forks" target="_blank" rel="noopener">GitHub Docs&lt;/a>:&lt;/p>
@@ -406,25 +616,46 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/fork-1.png" alt="Highlighted fork button" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Highlighted fork button" srcset="
+/psyconnect-documentation/media/fork-1_hu9137590268bc0c42b0fcbe720564c7cd_61902_c89a621b3759cf510f107375507d166a.webp 400w,
+/psyconnect-documentation/media/fork-1_hu9137590268bc0c42b0fcbe720564c7cd_61902_ff062bd9e2d4fac6dcb8f4f81f8580c0.webp 760w,
+/psyconnect-documentation/media/fork-1_hu9137590268bc0c42b0fcbe720564c7cd_61902_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/fork-1_hu9137590268bc0c42b0fcbe720564c7cd_61902_c89a621b3759cf510f107375507d166a.webp"
+width="760"
+height="370"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="2">
+&lt;ol>
 &lt;li>Click on the green &lt;code>Create fork&lt;/code> button on this window.&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/fork-2.png" alt="Creating a fork" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Creating a fork" srcset="
+/psyconnect-documentation/media/fork-2_hu7615b5e9b97f7286f51e03c73cea3914_40916_3daa129d63bf85bfbcc938f1e0f1485f.webp 400w,
+/psyconnect-documentation/media/fork-2_hu7615b5e9b97f7286f51e03c73cea3914_40916_1a0dafc3d0aec6e8a923cfeb2056237d.webp 760w,
+/psyconnect-documentation/media/fork-2_hu7615b5e9b97f7286f51e03c73cea3914_40916_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/fork-2_hu7615b5e9b97f7286f51e03c73cea3914_40916_3daa129d63bf85bfbcc938f1e0f1485f.webp"
+width="760"
+height="536"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="3">
+&lt;ol>
 &lt;li>You should now see your forked copy of the repository at &lt;code>your-username/PsyConnect.github.io&lt;/code> forked from &lt;code>PsyConnect/PsyConnect.github.io&lt;/code>.&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/fork-3.png" alt="Forked repository" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Forked repository" srcset="
+/psyconnect-documentation/media/fork-3_hu80dda5b93bcaad5bc58371b3a8c4e89e_81063_788bdbaa425005e1318aa6fe1823c206.webp 400w,
+/psyconnect-documentation/media/fork-3_hu80dda5b93bcaad5bc58371b3a8c4e89e_81063_52f4b6bb06b97e0f7bdb8ddda43ca47d.webp 760w,
+/psyconnect-documentation/media/fork-3_hu80dda5b93bcaad5bc58371b3a8c4e89e_81063_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/fork-3_hu80dda5b93bcaad5bc58371b3a8c4e89e_81063_788bdbaa425005e1318aa6fe1823c206.webp"
+width="760"
+height="531"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>Congratulations! You now have your own online copy of the repository. But what if you (1) want to edit your code offline, (2) don&amp;rsquo;t have an internet connection or (3) want to make multiple changes to different files?&lt;/p>
@@ -439,16 +670,30 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/cloning-1.png" alt="Screenshot of clone repository" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of clone repository" srcset="
+/psyconnect-documentation/media/cloning-1_hu588f1fc8892ec2fe076d0d8adf425f36_10737_1483d2a7284dc964d6f4de81dd3d771b.webp 400w,
+/psyconnect-documentation/media/cloning-1_hu588f1fc8892ec2fe076d0d8adf425f36_10737_644716042e7a63b2e6050300b69a8a4b.webp 760w,
+/psyconnect-documentation/media/cloning-1_hu588f1fc8892ec2fe076d0d8adf425f36_10737_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/cloning-1_hu588f1fc8892ec2fe076d0d8adf425f36_10737_1483d2a7284dc964d6f4de81dd3d771b.webp"
+width="337"
+height="238"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
-&lt;ol start="3">
+&lt;ol>
 &lt;li>Choose the forked repository &lt;code>your-username/PsyConnect.github.io&lt;/code> and choose where you wish to save it in your computer under &lt;code>Local path&lt;/code>.&lt;/li>
 &lt;/ol>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/cloning-2.png" alt="Screenshot of choosing repository to clone" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of choosing repository to clone" srcset="
+/psyconnect-documentation/media/cloning-2_hucfe87f4ad3e3bb26523bfa41e15872ef_25598_ac2930efa9f90baa42c9a67296e0f6dd.webp 400w,
+/psyconnect-documentation/media/cloning-2_hucfe87f4ad3e3bb26523bfa41e15872ef_25598_71a07993b4dd8b81df08ac3ebf7bcc8d.webp 760w,
+/psyconnect-documentation/media/cloning-2_hucfe87f4ad3e3bb26523bfa41e15872ef_25598_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/cloning-2_hucfe87f4ad3e3bb26523bfa41e15872ef_25598_ac2930efa9f90baa42c9a67296e0f6dd.webp"
+width="495"
+height="491"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p></description></item><item><title>Hosting Local Web Server</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/hosting-local-hugo-server/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/hosting-local-hugo-server/</guid><description>&lt;p>Congratulations! You&amp;rsquo;ve finished editing and can now view the fruits of your labour. In order to check if your code is workable and the possible visual changes on the website, you need to deploy a local webserver hosting your offline copy of our website.&lt;/p>
 &lt;p>To do this on VSCode:&lt;/p>
@@ -458,13 +703,27 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/modifed-example.png" alt="Screenshot of modified file" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of modified file" srcset="
+/psyconnect-documentation/media/modifed-example_hud40cdbb58832c854722521c6e69e54ae_6140_fa3f89c3ad5712e99eb8a84786559a8a.webp 400w,
+/psyconnect-documentation/media/modifed-example_hud40cdbb58832c854722521c6e69e54ae_6140_33a4c614dd0bc14b17ad2dcdca2083e1.webp 760w,
+/psyconnect-documentation/media/modifed-example_hud40cdbb58832c854722521c6e69e54ae_6140_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/modifed-example_hud40cdbb58832c854722521c6e69e54ae_6140_fa3f89c3ad5712e99eb8a84786559a8a.webp"
+width="328"
+height="107"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/uploaded-example.png" alt="Screenshot of uploaded file" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of uploaded file" srcset="
+/psyconnect-documentation/media/uploaded-example_huf71caaa2384c6cf13a6e66387c30bd41_6521_0cb5f5137034bd0cb35f04a4eeaf102b.webp 400w,
+/psyconnect-documentation/media/uploaded-example_huf71caaa2384c6cf13a6e66387c30bd41_6521_76e1854357d6f630e19bc379def0c492.webp 760w,
+/psyconnect-documentation/media/uploaded-example_huf71caaa2384c6cf13a6e66387c30bd41_6521_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/uploaded-example_huf71caaa2384c6cf13a6e66387c30bd41_6521_0cb5f5137034bd0cb35f04a4eeaf102b.webp"
+width="226"
+height="96"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;ol start="2">
@@ -473,7 +732,14 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/new-terminal-1.png" alt="Screenshot of terminal tab" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of terminal tab" srcset="
+/psyconnect-documentation/media/new-terminal-1_hu2a18e9ccea6f3863209cc33242f8c529_42647_0f47d90704327768d16a66c9502b21e8.webp 400w,
+/psyconnect-documentation/media/new-terminal-1_hu2a18e9ccea6f3863209cc33242f8c529_42647_a5c0203a46c2fc34738c73a319e09d6c.webp 760w,
+/psyconnect-documentation/media/new-terminal-1_hu2a18e9ccea6f3863209cc33242f8c529_42647_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/new-terminal-1_hu2a18e9ccea6f3863209cc33242f8c529_42647_0f47d90704327768d16a66c9502b21e8.webp"
+width="578"
+height="363"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;ol start="3">
@@ -482,7 +748,14 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/new-terminal-2.png" alt="Screenshot of terminal" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of terminal" srcset="
+/psyconnect-documentation/media/new-terminal-2_hu2aaaeb04f212a6990e93d0eefb7c4c06_53704_19a64a9ec6424d3fce54c5c28ccf1043.webp 400w,
+/psyconnect-documentation/media/new-terminal-2_hu2aaaeb04f212a6990e93d0eefb7c4c06_53704_7f467b69b9d68ab65dbeedeb288099a3.webp 760w,
+/psyconnect-documentation/media/new-terminal-2_hu2aaaeb04f212a6990e93d0eefb7c4c06_53704_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/new-terminal-2_hu2aaaeb04f212a6990e93d0eefb7c4c06_53704_19a64a9ec6424d3fce54c5c28ccf1043.webp"
+width="760"
+height="387"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;ol start="4">
@@ -491,7 +764,14 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/new-terminal-3.png" alt="Screenshot of terminal" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of terminal" srcset="
+/psyconnect-documentation/media/new-terminal-3_hu1f01a32a3ffdf9cd7526255eafe3eccf_8253_811beb512b1a037940337b47b221ec9a.webp 400w,
+/psyconnect-documentation/media/new-terminal-3_hu1f01a32a3ffdf9cd7526255eafe3eccf_8253_23215dec46dfb4f70f9a7fc80c8297eb.webp 760w,
+/psyconnect-documentation/media/new-terminal-3_hu1f01a32a3ffdf9cd7526255eafe3eccf_8253_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/new-terminal-3_hu1f01a32a3ffdf9cd7526255eafe3eccf_8253_811beb512b1a037940337b47b221ec9a.webp"
+width="382"
+height="145"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;ol start="5">
@@ -500,7 +780,14 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/new-terminal-4.png" alt="Screenshot of terminal" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of terminal" srcset="
+/psyconnect-documentation/media/new-terminal-4_hu622663ae70f6131dd4d72980cc2968a7_36274_3d178096233e52062da268c4315e6d06.webp 400w,
+/psyconnect-documentation/media/new-terminal-4_hu622663ae70f6131dd4d72980cc2968a7_36274_b85be6284bcc0bcc0de784741114893e.webp 760w,
+/psyconnect-documentation/media/new-terminal-4_hu622663ae70f6131dd4d72980cc2968a7_36274_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/new-terminal-4_hu622663ae70f6131dd4d72980cc2968a7_36274_3d178096233e52062da268c4315e6d06.webp"
+width="760"
+height="421"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;ol start="6">
@@ -509,7 +796,14 @@ Also note to follow the convention of using &lt;code>-&lt;/code> in place of spa
 &lt;p>
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img src="../assets/images/localhost.png" alt="Screenshot of terminal" loading="lazy" data-zoomable />&lt;/div>
+&lt;div class="w-100" >&lt;img alt="Screenshot of terminal" srcset="
+/psyconnect-documentation/media/localhost_hu87f239842d3a67d757d0caf97f117511_741515_a7e26e29548c6bd997f1acd2b17be4fc.webp 400w,
+/psyconnect-documentation/media/localhost_hu87f239842d3a67d757d0caf97f117511_741515_95f92da9c9cbedc466398091eff01d7b.webp 760w,
+/psyconnect-documentation/media/localhost_hu87f239842d3a67d757d0caf97f117511_741515_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/localhost_hu87f239842d3a67d757d0caf97f117511_741515_a7e26e29548c6bd997f1acd2b17be4fc.webp"
+width="760"
+height="406"
+loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;ol start="7">
