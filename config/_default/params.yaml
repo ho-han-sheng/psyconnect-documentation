@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2023} PsyConnect.'
     license:
       enable: true
       allow_derivatives: false
@@ -65,7 +65,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/hugo-documentation-theme'
+    url: 'https://github.com/ho-han-sheng/psyconnect-documentation'
     content_dir: content
     branch: main
   feedback:
