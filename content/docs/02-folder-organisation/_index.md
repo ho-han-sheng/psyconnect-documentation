@@ -62,6 +62,58 @@ The structure of the repository is as follows:
 
 This folder contains code for continuous integration / continuous deployment (CI/CD). It currently has one file `gh-pages.yml` which automates the publishing of our website through GitHub Pages whenever a commit is pushed to the main branch.
 
+## `content`
+
+### `content/about`
+
+Content for the "About Us" page.
+
+### `content/admin`
+
+Configuration files for the unused internal content management system (CMS)
+
+### `content/authors`
+
+Database of authors for tagging to resources and display on "People" page.
+
+### `content/contact`
+
+Content for the "Contact Us" page.
+
+### `content/event`
+
+Content for the "Events" page.
+
+### `content/home`
+
+Content for the "Home" page.
+
+### `content/people`
+
+Content for the "People" page
+
+### `content/post`
+
+Content for an unused page.
+
+### `content/resources`
+
+Content for the "resources" page.
+
+### `content/_index.md`
+
+File that determines our "Hero" page. i.e., the first page everyone lands on.
+
+## `data`
+
+### `data/fonts`
+
+Folder for containing custom fonts (if any).
+
+### `data/themes`
+
+Folder for dark / light themes used.
+
 ## `public`
 
 Do not modify. Folder automatically created by hugo when deploying the website.
