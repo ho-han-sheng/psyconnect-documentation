@@ -55,7 +55,88 @@ width="678"
 height="155"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>Setting Up GitHub</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</guid><description>&lt;p>You may find the following video useful:
+&lt;/p></description></item><item><title>Saving Changes</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/04-making-commits/saving-changes/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/04-making-commits/saving-changes/</guid><description>&lt;h2 id="save-your-work">Save your work&lt;/h2>
+&lt;p>Once you are satisfied with the look of your edit (through the &lt;a href="../03-making-edits/hosting-local-hugo-server.md">local hugo server&lt;/a>), remember to save your changes to the markdown (&lt;code>.md&lt;/code>) file. You may save with the keyboard shortcut (Ctrl-S) or with the ribbon buttons at the top of VSCode.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Screenshot of VSCode save menu" srcset="
+/psyconnect-documentation/media/making-commits-1_hu4d46864946e319df2127e5f45c6fe3fd_62429_b263c45a66090b82c298f229aaa89a4d.webp 400w,
+/psyconnect-documentation/media/making-commits-1_hu4d46864946e319df2127e5f45c6fe3fd_62429_1748c0cc73cefb458dbe04036dce8298.webp 760w,
+/psyconnect-documentation/media/making-commits-1_hu4d46864946e319df2127e5f45c6fe3fd_62429_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/making-commits-1_hu4d46864946e319df2127e5f45c6fe3fd_62429_b263c45a66090b82c298f229aaa89a4d.webp"
+width="639"
+height="668"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>A quick way to tell if you have saved your edits in the current file would be to look at the &amp;ldquo;close&amp;rdquo; icon to the right of the file tab.&lt;/p>
+&lt;p>This is what an unsaved file with edits appears as, a circle.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Unsaved markdown file" srcset="
+/psyconnect-documentation/media/commits-unsaved_huc4a182d3720a19668bfd9510d15b053c_5384_32ff1426683b85ad0bab18ae6830dbe1.webp 400w,
+/psyconnect-documentation/media/commits-unsaved_huc4a182d3720a19668bfd9510d15b053c_5384_17d33bb92ffb0143f61cf656f6ed3220.webp 760w,
+/psyconnect-documentation/media/commits-unsaved_huc4a182d3720a19668bfd9510d15b053c_5384_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/commits-unsaved_huc4a182d3720a19668bfd9510d15b053c_5384_32ff1426683b85ad0bab18ae6830dbe1.webp"
+width="241"
+height="96"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>And this is a saved file, a cross.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Saved markdown file" srcset="
+/psyconnect-documentation/media/commits-saved_hu4a8268da99e802ffd65bce63b4e2cdb8_5759_7846fbe6ca57eb14509b63975aad9f33.webp 400w,
+/psyconnect-documentation/media/commits-saved_hu4a8268da99e802ffd65bce63b4e2cdb8_5759_ee996da219b42a05efa267eb2783632a.webp 760w,
+/psyconnect-documentation/media/commits-saved_hu4a8268da99e802ffd65bce63b4e2cdb8_5759_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/commits-saved_hu4a8268da99e802ffd65bce63b4e2cdb8_5759_7846fbe6ca57eb14509b63975aad9f33.webp"
+width="255"
+height="101"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>You may also notice letters beside certain edited files. You may hover over them to find out what they refer to. Below are some examples of the letters you may encounter:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>A&lt;/strong> - Added; This new file was just added to the repository&lt;/li>
+&lt;li>&lt;strong>M&lt;/strong> - Modified; The contents of this existing file have been edited&lt;/li>
+&lt;li>&lt;strong>D&lt;/strong> - Deleted; This file will be deleted&lt;/li>
+&lt;li>&lt;strong>U&lt;/strong> - Untracked; This file was newly added and is not tracked by Git yet. You have to &amp;ldquo;stage&amp;rdquo; these files which will be elaborated on below.&lt;/li>
+&lt;li>&lt;strong>C&lt;/strong> - Conflict; This file currently conflicts with a file in the original repository, most likely as a duplicate or multiple people have made changes to the same file.&lt;/li>
+&lt;li>&lt;strong>R&lt;/strong> - Renamed; The file has been renamed&lt;/li>
+&lt;/ul>
+&lt;p>The numbers indicate how many possible formatting errors are present in the file, usually a deviation from markdown (&lt;code>.md&lt;/code>) conventions. Your linting extension will underline these errors.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Alt text" srcset="
+/psyconnect-documentation/media/commit-letter-number_huca40d789b9c9d5629b662369a82d9f97_6576_8fe830b555e93b0726f5b81d3edd3c77.webp 400w,
+/psyconnect-documentation/media/commit-letter-number_huca40d789b9c9d5629b662369a82d9f97_6576_508704a7d521f71757116e2d05f16340.webp 760w,
+/psyconnect-documentation/media/commit-letter-number_huca40d789b9c9d5629b662369a82d9f97_6576_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/commit-letter-number_huca40d789b9c9d5629b662369a82d9f97_6576_8fe830b555e93b0726f5b81d3edd3c77.webp"
+width="261"
+height="123"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Alt text" srcset="
+/psyconnect-documentation/media/linting-warning_hu8bbd42b1a7b7120f77ee806039fc8f5d_8839_c88a55f4db88c77452262a3ce261ec48.webp 400w,
+/psyconnect-documentation/media/linting-warning_hu8bbd42b1a7b7120f77ee806039fc8f5d_8839_fb6205b5dbf5842ae33be30198fbec80.webp 760w,
+/psyconnect-documentation/media/linting-warning_hu8bbd42b1a7b7120f77ee806039fc8f5d_8839_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/linting-warning_hu8bbd42b1a7b7120f77ee806039fc8f5d_8839_c88a55f4db88c77452262a3ce261ec48.webp"
+width="760"
+height="84"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="commit-your-changes">Commit your changes&lt;/h2>
+&lt;p>It&amp;rsquo;s time to switch back to GitHub Desktop. You will now notice that a bunch of file that you have added or modified are now listed as shown.&lt;/p></description></item><item><title>Setting Up GitHub</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</guid><description>&lt;p>You may find the following video useful:
 &lt;a href="https://youtu.be/8Dd7KRpKeaE" title="Git, GitHub, &amp;amp; GitHub Desktop for beginners" target="_blank" rel="noopener">
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
