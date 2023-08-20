@@ -46,9 +46,29 @@ It's time to switch back to GitHub Desktop. You will now notice that a bunch of 
 
 At the bottom-left, you will see input fields: __Summary__ and __Description__. 
 
-> Summary is compulsory, use a short message on what edits you have made in the stashed files. Keep the summary concise and to the point, any elaborations may be indicated in the description below.
+> Summary is __compulsory__, use a short message to describe what edits you have made. Keep the summary concise and to the point, any elaborations may be indicated in the description below.
 > e.g., "Added event post for july botanic gardens", "Changed author image", "Updated EXCO positions".
 
 Reminder: Commit messages are __PUBLIC__.
 
 ![Screenshot of commit message field](commit-message.png)
+
+Once done, click "commit to [branch-name-here]".
+
+![Screenshot of committed](committed.png)
+
+Congratulations! You have committed your changes onto a "permanent timeline" of all edits made to the repository. To recap, this commit acts as a "checkpoint", allowing us to:
+
+1. Restore the entire repository to a previous state (if anything breaks)
+2. Keep track of who, what, and when changes were made (so I know who to blame, kidding)
+3. Resolve file conflicts in multiple copies of the repository when working collaboratively
+
+Do read up on the [git commits best practices](https://gist.github.com/luismts/495d982e8c5b1a0ced4a57cf3d93cf60).
+
+## Push commits to remote repository
+
+Importantly, the commit you just made is a local one. This means that the commit is currently only tracked on your __local copy__ of the repository; If you are currently working on one device, the changes and commits will not be reflected on another device yet.
+
+To have the commit reflected on the [remote copy you made](../01-getting-started/forking-the-repo.md), you need to `push` the commit to the origin repository (i.e., your forked repository on GitHub) by clicking the button below:
+
+![Screenshot of push to origin](push-origin.png)
