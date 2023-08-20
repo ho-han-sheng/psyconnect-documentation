@@ -40,5 +40,6 @@ The numbers indicate how many possible formatting errors are present in the file
 
 ## Commit your changes
 
-It's time to switch back to GitHub Desktop. You will now notice that a bunch of file that you have added or modified are now listed as shown.
+It's time to switch back to GitHub Desktop. You will now notice that a bunch of files that you have added or modified are now listed as shown (the exact names of the files may differ, the point is that these are the files Git has identified changes in and have not yet been committed).
 
+![Screenshot of stashed changes](github-stashed.png)
