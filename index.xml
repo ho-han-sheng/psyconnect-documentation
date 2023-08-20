@@ -136,7 +136,20 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
 &lt;/p>
 &lt;h2 id="commit-your-changes">Commit your changes&lt;/h2>
-&lt;p>It&amp;rsquo;s time to switch back to GitHub Desktop. You will now notice that a bunch of file that you have added or modified are now listed as shown.&lt;/p></description></item><item><title>Setting Up GitHub</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</guid><description>&lt;p>You may find the following video useful:
+&lt;p>It&amp;rsquo;s time to switch back to GitHub Desktop. You will now notice that a bunch of files that you have added or modified are now listed as shown (the exact names of the files may differ, the point is that these are the files Git has identified changes in and have not yet been committed).&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Screenshot of stashed changes" srcset="
+/psyconnect-documentation/media/github-stashed_hu36047b45ec23faf6edc4446dddeab5ce_21499_5b853b258d5546abb64158fbe5a5a65a.webp 400w,
+/psyconnect-documentation/media/github-stashed_hu36047b45ec23faf6edc4446dddeab5ce_21499_f64f628e4439f5b0cd6e98d380fd4ca9.webp 760w,
+/psyconnect-documentation/media/github-stashed_hu36047b45ec23faf6edc4446dddeab5ce_21499_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/github-stashed_hu36047b45ec23faf6edc4446dddeab5ce_21499_5b853b258d5546abb64158fbe5a5a65a.webp"
+width="760"
+height="215"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Setting Up GitHub</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</guid><description>&lt;p>You may find the following video useful:
 &lt;a href="https://youtu.be/8Dd7KRpKeaE" title="Git, GitHub, &amp;amp; GitHub Desktop for beginners" target="_blank" rel="noopener">
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
