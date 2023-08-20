@@ -64,11 +64,3 @@ Congratulations! You have committed your changes onto a "permanent timeline" of 
 3. Resolve file conflicts in multiple copies of the repository when working collaboratively
 
 Do read up on the [git commits best practices](https://gist.github.com/luismts/495d982e8c5b1a0ced4a57cf3d93cf60).
-
-## Push commits to remote repository
-
-Importantly, the commit you just made is a local one. This means that the commit is currently only tracked on your __local copy__ of the repository; If you are currently working on one device, the changes and commits will not be reflected on another device yet.
-
-To have the commit reflected on the [remote copy you made](../01-getting-started/forking-the-repo.md), you need to `push` the commit to the origin repository (i.e., your forked repository on GitHub) by clicking the button below:
-
-![Screenshot of push to origin](push-origin.png)
