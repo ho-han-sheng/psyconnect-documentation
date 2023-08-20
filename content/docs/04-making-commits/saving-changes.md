@@ -43,3 +43,12 @@ The numbers indicate how many possible formatting errors are present in the file
 It's time to switch back to GitHub Desktop. You will now notice that a bunch of files that you have added or modified are now listed as shown (the exact names of the files may differ, the point is that these are the files Git has identified changes in and have not yet been committed).
 
 ![Screenshot of stashed changes](github-stashed.png)
+
+At the bottom-left, you will see input fields: __Summary__ and __Description__. 
+
+> Summary is compulsory, use a short message on what edits you have made in the stashed files. Keep the summary concise and to the point, any elaborations may be indicated in the description below.
+> e.g., "Added event post for july botanic gardens", "Changed author image", "Updated EXCO positions".
+
+Reminder: Commit messages are __PUBLIC__.
+
+![Screenshot of commit message field](commit-message.png)
