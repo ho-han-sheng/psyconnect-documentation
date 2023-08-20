@@ -55,7 +55,7 @@ width="678"
 height="155"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>Saving Changes</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/04-making-commits/saving-changes/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/04-making-commits/saving-changes/</guid><description>&lt;h2 id="save-your-work">Save your work&lt;/h2>
+&lt;/p></description></item><item><title>Saving Changes</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/04-making-commits/commiting-locally/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/04-making-commits/commiting-locally/</guid><description>&lt;h2 id="save-your-work">Save your work&lt;/h2>
 &lt;p>Once you are satisfied with the look of your edit (through the &lt;a href="../03-making-edits/hosting-local-hugo-server.md">local hugo server&lt;/a>), remember to save your changes to the markdown (&lt;code>.md&lt;/code>) file. You may save with the keyboard shortcut (Ctrl-S) or with the ribbon buttons at the top of VSCode.&lt;/p>
 &lt;p>
 &lt;figure >
@@ -189,23 +189,7 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;li>Keep track of who, what, and when changes were made (so I know who to blame, kidding)&lt;/li>
 &lt;li>Resolve file conflicts in multiple copies of the repository when working collaboratively&lt;/li>
 &lt;/ol>
-&lt;p>Do read up on the &lt;a href="https://gist.github.com/luismts/495d982e8c5b1a0ced4a57cf3d93cf60" target="_blank" rel="noopener">git commits best practices&lt;/a>.&lt;/p>
-&lt;h2 id="push-commits-to-remote-repository">Push commits to remote repository&lt;/h2>
-&lt;p>Importantly, the commit you just made is a local one. This means that the commit is currently only tracked on your &lt;strong>local copy&lt;/strong> of the repository; If you are currently working on one device, the changes and commits will not be reflected on another device yet.&lt;/p>
-&lt;p>To have the commit reflected on the &lt;a href="../01-getting-started/forking-the-repo.md">remote copy you made&lt;/a>, you need to &lt;code>push&lt;/code> the commit to the origin repository (i.e., your forked repository on GitHub) by clicking the button below:&lt;/p>
-&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Screenshot of push to origin" srcset="
-/psyconnect-documentation/media/push-origin_hu8ecc45488cbb8a2abf5251ddfe5131de_58120_31109cd0a6ab7a84d0e143421f441308.webp 400w,
-/psyconnect-documentation/media/push-origin_hu8ecc45488cbb8a2abf5251ddfe5131de_58120_a618b12024e4bf76904e28e048711e36.webp 760w,
-/psyconnect-documentation/media/push-origin_hu8ecc45488cbb8a2abf5251ddfe5131de_58120_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/push-origin_hu8ecc45488cbb8a2abf5251ddfe5131de_58120_31109cd0a6ab7a84d0e143421f441308.webp"
-width="760"
-height="210"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p></description></item><item><title>Setting Up GitHub</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</guid><description>&lt;p>You may find the following video useful:
+&lt;p>Do read up on the &lt;a href="https://gist.github.com/luismts/495d982e8c5b1a0ced4a57cf3d93cf60" target="_blank" rel="noopener">git commits best practices&lt;/a>.&lt;/p></description></item><item><title>Setting Up GitHub</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/01-getting-started/setting-up-github/</guid><description>&lt;p>You may find the following video useful:
 &lt;a href="https://youtu.be/8Dd7KRpKeaE" title="Git, GitHub, &amp;amp; GitHub Desktop for beginners" target="_blank" rel="noopener">
 &lt;figure >
 &lt;div class="d-flex justify-content-center">
@@ -395,7 +379,39 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/ul>
 &lt;h3 id="git-graphical-user-interface-gui">Git Graphical User Interface (GUI)&lt;/h3>
 &lt;p>As our repositiory is hosted on GitHub, &lt;a href="https://desktop.github.com/" target="_blank" rel="noopener">GitHub Desktop&lt;/a> would be less troublesome to set up.&lt;/p>
-&lt;p>Other GUIs such as &lt;a href="https://www.sourcetreeapp.com/" target="_blank" rel="noopener">Sourcetree&lt;/a> may require additional user accounts to be created.&lt;/p></description></item><item><title>Setting Up Visual Studio Code</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/setting-up-vscode/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/setting-up-vscode/</guid><description>&lt;ol>
+&lt;p>Other GUIs such as &lt;a href="https://www.sourcetreeapp.com/" target="_blank" rel="noopener">Sourcetree&lt;/a> may require additional user accounts to be created.&lt;/p></description></item><item><title>Pushing to remote</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/04-making-commits/push-to-remote/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/04-making-commits/push-to-remote/</guid><description>&lt;h2 id="push-commits-to-remote-repository">Push commits to remote repository&lt;/h2>
+&lt;p>Importantly, the commit you just made is a local one. This means that the commit is currently only tracked on your &lt;strong>local copy&lt;/strong> of the repository; If you are currently working on one device, the changes and commits will not be reflected on another device yet.&lt;/p>
+&lt;p>To have the commit reflected on the &lt;a href="../01-getting-started/forking-the-repo.md">remote copy you made&lt;/a>, you need to &lt;code>push&lt;/code> the commit to the origin repository (i.e., your forked repository on GitHub) by clicking the button below:&lt;/p>
+&lt;blockquote>
+&lt;p>The number and arrow on the &lt;code>Push origin&lt;/code> button denotes how many local commits you have made that have not yet been pushed to the remote repository.&lt;/p>
+&lt;/blockquote>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Screenshot of push to origin" srcset="
+/psyconnect-documentation/media/push-origin_hu8ecc45488cbb8a2abf5251ddfe5131de_58120_31109cd0a6ab7a84d0e143421f441308.webp 400w,
+/psyconnect-documentation/media/push-origin_hu8ecc45488cbb8a2abf5251ddfe5131de_58120_a618b12024e4bf76904e28e048711e36.webp 760w,
+/psyconnect-documentation/media/push-origin_hu8ecc45488cbb8a2abf5251ddfe5131de_58120_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/push-origin_hu8ecc45488cbb8a2abf5251ddfe5131de_58120_31109cd0a6ab7a84d0e143421f441308.webp"
+width="760"
+height="210"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Once GitHub Desktop completes its processes, you should now see your changes reflected in your online fork on GitHub (&lt;code>your-username/PsyConnect.github.io&lt;/code>).&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Screenshot of remote repo" srcset="
+/psyconnect-documentation/media/github-reflect-commit_hue03861ec5b61e588b6cb98c7158cfb41_15820_fc7a3dae3cd552151046a4b8b81ca041.webp 400w,
+/psyconnect-documentation/media/github-reflect-commit_hue03861ec5b61e588b6cb98c7158cfb41_15820_58833b6d170c0b9d147a414f0978e24b.webp 760w,
+/psyconnect-documentation/media/github-reflect-commit_hue03861ec5b61e588b6cb98c7158cfb41_15820_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/github-reflect-commit_hue03861ec5b61e588b6cb98c7158cfb41_15820_fc7a3dae3cd552151046a4b8b81ca041.webp"
+width="760"
+height="131"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>Setting Up Visual Studio Code</title><link>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/setting-up-vscode/</link><pubDate>Sat, 07 Jan 2023 00:00:00 +0800</pubDate><guid>https://ho-han-sheng.github.io/psyconnect-documentation/docs/03-making-edits/setting-up-vscode/</guid><description>&lt;ol>
 &lt;li>On startup, you will be greeted with the &lt;code>Get Started&lt;/code> page. A few options are available, you would want to use &lt;code>Open Folder&lt;/code>.&lt;/li>
 &lt;/ol>
 &lt;p>
