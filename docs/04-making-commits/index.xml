@@ -92,4 +92,60 @@ width="760"
 height="215"
 loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>At the bottom-left, you will see input fields: &lt;strong>Summary&lt;/strong> and &lt;strong>Description&lt;/strong>.&lt;/p>
+&lt;blockquote>
+&lt;p>Summary is &lt;strong>compulsory&lt;/strong>, use a short message to describe what edits you have made. Keep the summary concise and to the point, any elaborations may be indicated in the description below.
+e.g., &amp;ldquo;Added event post for july botanic gardens&amp;rdquo;, &amp;ldquo;Changed author image&amp;rdquo;, &amp;ldquo;Updated EXCO positions&amp;rdquo;.&lt;/p>
+&lt;/blockquote>
+&lt;p>Reminder: Commit messages are &lt;strong>PUBLIC&lt;/strong>.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Screenshot of commit message field" srcset="
+/psyconnect-documentation/media/commit-message_huc1d917f3552ee942ec0d5d5ac0288ef9_7201_f8a8814dab7d6f3e371719f5d3cbd1d0.webp 400w,
+/psyconnect-documentation/media/commit-message_huc1d917f3552ee942ec0d5d5ac0288ef9_7201_553b9c6803bf84cc1f2a4af639239b1b.webp 760w,
+/psyconnect-documentation/media/commit-message_huc1d917f3552ee942ec0d5d5ac0288ef9_7201_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/commit-message_huc1d917f3552ee942ec0d5d5ac0288ef9_7201_f8a8814dab7d6f3e371719f5d3cbd1d0.webp"
+width="257"
+height="207"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Once done, click &amp;ldquo;commit to [branch-name-here]&amp;rdquo;.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Screenshot of committed" srcset="
+/psyconnect-documentation/media/committed_hudc8aa2680d640e59aeb2cc390ba0676f_12127_8905e076ae135d8516a09326097d311b.webp 400w,
+/psyconnect-documentation/media/committed_hudc8aa2680d640e59aeb2cc390ba0676f_12127_2a95ca54e2f0cec9de35e14b926fd34e.webp 760w,
+/psyconnect-documentation/media/committed_hudc8aa2680d640e59aeb2cc390ba0676f_12127_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/committed_hudc8aa2680d640e59aeb2cc390ba0676f_12127_8905e076ae135d8516a09326097d311b.webp"
+width="253"
+height="257"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;p>Congratulations! You have committed your changes onto a &amp;ldquo;permanent timeline&amp;rdquo; of all edits made to the repository. To recap, this commit acts as a &amp;ldquo;checkpoint&amp;rdquo;, allowing us to:&lt;/p>
+&lt;ol>
+&lt;li>Restore the entire repository to a previous state (if anything breaks)&lt;/li>
+&lt;li>Keep track of who, what, and when changes were made (so I know who to blame, kidding)&lt;/li>
+&lt;li>Resolve file conflicts in multiple copies of the repository when working collaboratively&lt;/li>
+&lt;/ol>
+&lt;p>Do read up on the &lt;a href="https://gist.github.com/luismts/495d982e8c5b1a0ced4a57cf3d93cf60" target="_blank" rel="noopener">git commits best practices&lt;/a>.&lt;/p>
+&lt;h2 id="push-commits-to-remote-repository">Push commits to remote repository&lt;/h2>
+&lt;p>Importantly, the commit you just made is a local one. This means that the commit is currently only tracked on your &lt;strong>local copy&lt;/strong> of the repository; If you are currently working on one device, the changes and commits will not be reflected on another device yet.&lt;/p>
+&lt;p>To have the commit reflected on the &lt;a href="../01-getting-started/forking-the-repo.md">remote copy you made&lt;/a>, you need to &lt;code>push&lt;/code> the commit to the origin repository (i.e., your forked repository on GitHub) by clicking the button below:&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Screenshot of push to origin" srcset="
+/psyconnect-documentation/media/push-origin_hu8ecc45488cbb8a2abf5251ddfe5131de_58120_31109cd0a6ab7a84d0e143421f441308.webp 400w,
+/psyconnect-documentation/media/push-origin_hu8ecc45488cbb8a2abf5251ddfe5131de_58120_a618b12024e4bf76904e28e048711e36.webp 760w,
+/psyconnect-documentation/media/push-origin_hu8ecc45488cbb8a2abf5251ddfe5131de_58120_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://ho-han-sheng.github.io/psyconnect-documentation/psyconnect-documentation/media/push-origin_hu8ecc45488cbb8a2abf5251ddfe5131de_58120_31109cd0a6ab7a84d0e143421f441308.webp"
+width="760"
+height="210"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
 &lt;/p></description></item></channel></rss>
